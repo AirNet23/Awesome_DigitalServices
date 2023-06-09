@@ -36,6 +36,7 @@
 
 ## Experiments / Drafts
 
+* [Educational material](experiments-drafts/educational-material.md)
 * [Content algorithms of popular networks](experiments-drafts/content-algorithms-of-popular-networks/README.md)
   * [Twitter](experiments-drafts/content-algorithms-of-popular-networks/twitter.md)
   * [Instagram](experiments-drafts/content-algorithms-of-popular-networks/instagram.md)
