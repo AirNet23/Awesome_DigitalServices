@@ -36,6 +36,9 @@
 
 ## Experiments / Drafts
 
+* [Content algorithms of popular networks](experiments-drafts/content-algorithms-of-popular-networks/README.md)
+  * [Twitter](experiments-drafts/content-algorithms-of-popular-networks/twitter.md)
+  * [Instagram](experiments-drafts/content-algorithms-of-popular-networks/instagram.md)
 * [Social Media metrics](experiments-drafts/social-media-metrics/README.md)
   * [Producer-Consumer rate](experiments-drafts/social-media-metrics/producer-consumer-rate.md)
 * [Cultural aspects](experiments-drafts/cultural-aspects.md)
