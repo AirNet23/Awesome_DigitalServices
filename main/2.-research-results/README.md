@@ -1,4 +1,4 @@
-# 2. Research Results
+# 3. Research Results
 
 For the research I decided to do a comparision between similar (digital) services that are predecessor and successor based on their publication date. By this approach I believe the change of finding some static and changing elements of this services is the highest. Also It could be possible to spot some trends in the feature development of digital social services especially social media.
 

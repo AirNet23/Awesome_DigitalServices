@@ -1,4 +1,4 @@
-# VI. Further Scientific Papers
+# 2. Literature Review
 
 I extend my analysis by letting an LLM provide the summaries of the following papers. They got discoverd by a search using [ ](https://elicit.org/tasks)[https://elicit.org](https://elicit.org/starred)
 
