@@ -9,17 +9,17 @@
 
 ## Main
 
-* [2. Research Results](main/2.-research-results/README.md)
-  * [I Information retrival](main/2.-research-results/i-information-retrival.md)
-  * [II Chatting](main/2.-research-results/ii-chatting.md)
-  * [III Media Sharing](main/2.-research-results/iii-media-sharing.md)
-  * [IV Shopping](main/2.-research-results/iv-shopping.md)
-  * [V Dating](main/2.-research-results/v-dating.md)
-  * [VI Social Networks](main/2.-research-results/vi-social-networks.md)
-  * [VI. Further Scientific Papers](main/2.-research-results/vi.-further-scientific-papers.md)
-* [3. The thinking framework (Draft)](main/3.-the-thinking-framework-draft.md)
-* [4. Applying the thinking framework (Draft)](main/4.-applying-the-thinking-framework-draft.md)
-* [5. Appliance of this framework using the example of „Instagram“ (Draft)](main/5.-appliance-of-this-framework-using-the-example-of-instagram-draft.md)
+* [2. Literature Review](main/2.-literature-review.md)
+* [3. Research Results](main/3.-research-results/README.md)
+  * [I Information retrival](main/3.-research-results/i-information-retrival.md)
+  * [II Chatting](main/3.-research-results/ii-chatting.md)
+  * [III Media Sharing](main/3.-research-results/iii-media-sharing.md)
+  * [IV Shopping](main/3.-research-results/iv-shopping.md)
+  * [V Dating](main/3.-research-results/v-dating.md)
+  * [VI Social Networks](main/3.-research-results/vi-social-networks.md)
+* [4. The thinking framework (Draft)](main/4.-the-thinking-framework-draft.md)
+* [5. Applying the thinking framework (Draft)](main/5.-applying-the-thinking-framework-draft.md)
+* [6. Appliance of this framework using the example of „Instagram“ (Draft)](main/6.-appliance-of-this-framework-using-the-example-of-instagram-draft.md)
 
 ## Ending
 

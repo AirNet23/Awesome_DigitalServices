@@ -20,13 +20,19 @@ _V Why people dont act on the dangers of surveilance capitalims ?“_
 
 _VI Why got the origins of this companies got so mutated to dangerous service ?“_
 
-To be able to build such an framework I searched the internet for articles, papers on the questions and tried to find patterns. I decided to sum up the results of this articles as written conclusions about each source. This was my early approach, but I couldnt overcome the inherent restrictions by this: I will not reach any complete or near complete description soon by this. The suprising progress in LLM AI systems brought me to a solution: I decided to apply few shot learning to it. By feeding the AI my conclusions I should be able to transfer it into the right state to make thoughtfull extensions to my work. I used GPT-3 and later GPT-4 as assistance to generate answers. (Chapter 2. Research Results)
+To be able to build such an framework I searched the internet for articles, papers on the questions and tried to find patterns. I decided to sum up the results of this articles as written conclusions about each source.&#x20;
 
-I continued by setting up a taxonomy for describing these digital services by myself and the material I read. I used Gpt-4 to rewrite this taxonomy and get suggestions on further readings (Chapter 4. Further sources and books). While I was adding short descritptions to every subpoint of the taxonomy they were used and rewriten by GPT-4. Later I used the results of GPT-4 to fill the subpoints of the taxonomy. The next step was to pass the conclusions of Chapter 2. to GPT-4 and let it catologuize it into the taxonomy. I also let GPT-4 generate its own further findings.
+Starting from this early approach I couldn't overcome the inherent restrictions by this: I will not reach any complete or near complete description soon by this. The suprising progress in LLM AI systems brought me to a solution: I decided to apply text summaration and knwoledge exploring capabilites of LLM's to structure my thoughts. By prompting the AI, with my summaries and conclusion, I should be able to transfer it into the right state to make thoughtfull extensions to my work. I used GPT-3 and later GPT-4 as assistance to generate answers. (Chapter 2. Research Results)
 
-After improving it and fixing errors we could created a cataloug of different properties and theories that can be used for description of the services. The „thinking framework“.
+I continued by setting up a taxonomy for describing these digital services by myself and the material I read.&#x20;
 
-Finally I decided to input the thinking framework and let the modle write the text chapter by chapter into the gpt-4 model on the different service of
+I used Gpt-4 to rewrite this taxonomy and get suggestions on further readings (Chapter 4. Further sources and books). While I was adding short descritptions to every subpoint of the taxonomy they were used and rewriten by GPT-4.&#x20;
+
+Later I used the results of GPT-4 to fill the sub points of the taxonomy. The next step was to pass the conclusions of Chapter 2. to GPT-4 and let it catologuize it into the taxonomy. I also let GPT-4 generate its own further findings.
+
+After improving it and fixing errors we could created a catalog of different properties and theories that can be used for description of the services. The „thinking framework“.
+
+Finally I decided to input the thinking framework and let the model write the text chapter by chapter into the gpt-4 model on the different service of
 
 \
 
