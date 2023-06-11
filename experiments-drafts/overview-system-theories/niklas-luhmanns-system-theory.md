@@ -1,4 +1,4 @@
-# Niklas Luhmann's System Theory
+# Social system are communication: Niklas Luhmann's System Theory
 
 <mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Niklas Luhmann, a German sociologist, developed his system theory in the 1970s-1990s. Luhmann's work focuses primarily on social systems, drawing upon various disciplines, including sociology, law, economics, and communication science. Luhmann's system theory posits that social systems are self-referential and autopoietic, meaning they create and maintain their own structures and boundaries.</mark>
 

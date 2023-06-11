@@ -1,4 +1,4 @@
-# Theories of 'The System Bible'
+# Systems behavior: Theories of 'The System Bible'
 
 <mark style="color:blue;">**A:**</mark> <mark style="color:blue;">The System Bible, also known as "Systemantics" or "The Systems Bible," is a book written by John Gall in 1975. The book is a humorous and satirical examination of the principles governing systems and their often-inefficient and counterintuitive behaviors.</mark>
 

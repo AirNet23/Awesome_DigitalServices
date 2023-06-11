@@ -1,4 +1,4 @@
-# Theories of 'The Age of Surveilance Capitalism'
+# Intrusive digital economy: Theories of 'The Age of Surveillance Capitalism'
 
 <mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Please introduce the key findings of the book "im the age of survilance capitalism" by namimg the hroud Theorie shuboffs used, which research she conducted, which patterns she could analysefrom each research method and which results she could conclude. Line out how here key findings can be used for future research.</mark>
 
@@ -42,5 +42,5 @@
 
 <mark style="color:blue;">**In conclusion,**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">the key findings of "The Age of Surveillance Capitalism" reveal a new form of capitalism that has significant implications for individuals, society, and politics. By analyzing the origins, patterns, and consequences of surveillance capitalism, Zuboff's work lays the groundwork for future research into the mechanisms, implications, and potential resistance to this emerging economic order.</mark>
 
-Source \[GPT4.29], gpt-4-0314(temp = 0.7,top\_p=1), valid till: 09.2021, 01.05.2023
+Source \[GPT4.36], gpt-4-0314(temp = 0, top\_p=1), valid till: 09.2021, 09.06.2023
 

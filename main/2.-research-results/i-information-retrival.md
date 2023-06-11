@@ -190,13 +190,22 @@ _Source: s. \[G.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_
 
 **I.III Google (1998) vs. MSN Search (1999)**
 
-**...**
+**Context:** In the 90's the big companies AOL, Microsoft and Yahoo competed for market share on 'web portals'. These were news sites often integrated as landing page in their browsers of provided as first redirection of internet providers. They offered a wide range of information to different kind of topics (Sports, TV etc.) and were used as a central spot to publish new digital services to the user. All of them provided human curated content and cooperated with other companies to provide more content. Microsoft made the decision to extend its web portal MSN with a search engine.
 
-**Fazit:**
+* MSN Search was launched in the last quarter of 1998.
+* MSN Search didnt had an own index (searchable list) of websites and used results from (human curated) Looksmart and combined with results of Inktomi index based search), and for a short time from AltaVista (index based search).
+* Microsoft decided to build its own index, by using a web crawler and published its reworked service with this index as beta in 2004.
 
-_..._
+**Conclusion:**&#x20;
 
-1. 1993 the first web search engine with crawling, searching and indexing were published ↑
+* To open up to the new search market microsoft integrated products of other comapnies in it already prelevant web portal (provied by internet explorer) #
+* ...
+
+
+
+_Source: s. \[GvsMSN.1]_ [_https://en.wikipedia.org/wiki/Microsoft\_Bing#MSN\_Search_](https://en.wikipedia.org/wiki/Microsoft\_Bing#MSN\_Search)_, retrieved on 11.06.2023_
+
+
 
 
 

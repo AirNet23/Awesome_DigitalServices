@@ -1,4 +1,4 @@
-# Karl Weick's System Theory
+# Decision making: Karl Weick's System Theory
 
 <mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Karl Weick, an American organizational theorist, developed his theory in the 1960s-1990s. Weick's work primarily focuses on organizational psychology and communication, and his research has been influential in understanding the processes of sensemaking, organizing, and decision-making in organizations. Weick's theory highlights the importance of understanding how individuals and groups interpret and make sense of their environments.</mark>
 
