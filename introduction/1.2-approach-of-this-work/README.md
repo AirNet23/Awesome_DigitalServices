@@ -34,9 +34,11 @@ II.II Which (social political, psychological, economical or military) flaws occu
 
 **III. Perception of digital services**
 
-If our digital services show extending privacy eroding behaviour and society transforming behavior:
+III.I Which user benefits and disadvantages does the author or people experience by using this service ?
 
-III.I Why people don't act on the dangers of data extraction and behavioral prediction that lead to the erosion of individual privacy and autonomy, eventually manipulation of human behaviour and invasiv control over democratic socytiess and social order. (Consequences of surveillance capitalism; See chapter: Overview system theories > Intrusive digital economy ...)
+III.II How is the overall perception of the user to this service ?
+
+III.II If the service collects user data intrusively: Why people don't act on the dangers of data extraction and behavioral prediction. (Consequences of surveillance capitalism; See chapter: Overview system theories > Intrusive digital economy ...)
 
 
 
