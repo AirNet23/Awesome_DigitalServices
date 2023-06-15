@@ -82,3 +82,30 @@ VI.IX TikTok vs. Clubhouse
 
 Each section contains multiple exerpts from sources. Each exerpt consist of highlighted text and a summary and the source reference.
 
+
+
+Update 16.06: Due to a lack of time I decided to just take the searching and prefiltering relevant texts and let the LLM GPT-4 do the summariation. For that reaoson I wrote the follwoing prompt based on the questions from chapter 1.
+
+The following questions are a template for a detailed mid length summary of the given text:
+
+<mark style="color:blue;">**Q:**</mark>&#x20;
+
+<mark style="color:blue;">\[PUT YOUR TEXT TO SUMMARIZE HERE]</mark>
+
+<mark style="color:blue;">I.I What were the disadvantages of the old services ?</mark>&#x20;
+
+<mark style="color:blue;">I.II Why people prefer using the new services over the old one ?</mark>&#x20;
+
+<mark style="color:blue;">I.III Which other factors provided an advantages to the new service that it could grow in the market I.IV Which other factors provided an disadvantage to the old service that it declined in the market ? I.V Why new digital services could replace the prevalent ways of a specific communication style in society ?</mark>&#x20;
+
+<mark style="color:blue;">II.I How the values and concepts of society of the developers influenced the rise of their service ? II.II How did the values and concepts changed to the values that express the platform today (in an article) ?</mark>&#x20;
+
+<mark style="color:blue;">III.I Which positive consequences occur for a individual, a group, a society by using this services ? III.II Which negative consequences occur for a individual, a group, a society by using this services ? IV.I Which user benefits and disadvantages does the author or people experience by using this service ?</mark>&#x20;
+
+<mark style="color:blue;">IV.II How is the overall perception of the user to this service ?</mark>&#x20;
+
+<mark style="color:blue;">IV.III If the service collects user data intrusively: Why people don't act on the dangers of data extraction and behavioral prediction.</mark>
+
+<mark style="color:blue;">Write an detailed mid length summary of the text considering the questions keeping their order. Skip questions, where there is no information in he text. Provide the number of the question that got answered after each sense sections. DONT mix sense sections referring to different questions. DONT provide information that is not in the text.</mark>
+
+**I will publish results soon.**
