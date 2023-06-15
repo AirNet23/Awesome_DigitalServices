@@ -67,4 +67,4 @@
   * [Cambridge Analytica Scandal](experiments-drafts/big-privacy-violation-scandals/cambridge-analytica-scandal.md)
   * [Facebook Papers](experiments-drafts/big-privacy-violation-scandals/facebook-papers.md)
   * [Twitter files](experiments-drafts/big-privacy-violation-scandals/twitter-files.md)
-  * [XANDR Online Marketing Categories Leak](experiments-drafts/big-privacy-violation-scandals/xandr-online-marketing-categories-leak.md)
+  * [Latest surveillance activites](further-readings/big-privacy-violation-scandals/latest-surveillance-activites.md)
