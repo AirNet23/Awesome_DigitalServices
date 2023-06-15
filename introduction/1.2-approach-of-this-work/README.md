@@ -34,7 +34,9 @@ II.II Which (social political, psychological, economical or military) flaws occu
 
 **III. Perception of digital services**
 
-III.I Why people don't act on the dangers of surveillance capitalism ?
+If our digital services show extending privacy eroding behaviour and society transforming behavior:
+
+III.I Why people don't act on the dangers of data extraction and behavioral prediction that lead to the erosion of individual privacy and autonomy, eventually manipulation of human behaviour and invasiv control over democratic socytiess and social order. (Consequences of surveillance capitalism; See chapter: Overview system theories > Intrusive digital economy ...)
 
 
 
