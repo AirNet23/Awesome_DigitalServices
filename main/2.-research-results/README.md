@@ -104,8 +104,8 @@ The following questions are a template for a detailed mid length summary of the 
 
 <mark style="color:blue;">IV.II How is the overall perception of the user to this service ?</mark>&#x20;
 
-<mark style="color:blue;">IV.III If the service collects user data intrusively: Why people don't act on the dangers of data extraction and behavioral prediction.</mark>
+<mark style="color:blue;">IV.III If the service collects user data intrusively: Why people don't act on the dangers of data extraction and behavioral prediction ?</mark>
 
-<mark style="color:blue;">Write an detailed mid length summary of the text considering the questions keeping their order. Skip questions, where there is no information in he text. Provide the number of the question that got answered after each sense sections. DONT mix sense sections referring to different questions. DONT provide information that is not in the text.</mark>
+<mark style="color:blue;">Write an detailed summary of the text. Try to answer the questions with the texts information. For each question form one ore more sense sections. SKIP questions, where there is no information in the text. KEEP THE ORDER of the questions if possible. WRITE DOWN the number of the question that got answered. AVOID general terms for an explanation, use examples if given. DON'T mix sense sections referring to different questions. DON'T provide information that is not in the text.</mark>
 
 **I will publish results soon.**
