@@ -14,8 +14,17 @@
 
 Hi,
 
-I am a student of society and computer science and want to create tools for our society that are more people serving than they we have currently to communicate, build relationships and define democratic consens.
+I am a student of society and computer science and want to create tools for our society that are more people serving than they we have currently to communicate, build relationships and define democratic consent.
 
-I believe for that we didnt find any powerful enough thinking frameworks to understand, why we head to this situation with digital monopolists and gatekeepers controling information society. I strongly oppose the current state of society since the current system dont serve the people and is a mutated form of the original idea of the WWW with flourishing information diversity and enabeling peoples individual power to create and share.
+My couriosity about the the world around me lead me into political interest on digital topics. Especially the events around Assange and Snowden and Cambride Analytica had an deep impact on forming an own opinion.&#x20;
 
-HINT & HOW TO CONTRIBUTE: Because I uploaded in hurry all the color formating is gone... I will improve this soon. Also the next TODOs are to complete the german -> english translation, do a grammar check and complete chapter 2, by summarizing multiple sources at each subchapter.
+While a technology can be used for good and bad, the inherit  properties of this technologie will enable the realization of different political ideas in an asymmetric way.&#x20;
+
+For example if Social media are useful to keep in touch with your friends and find inspiring content the collected data about your relationsships getting aggregated. Who has access to this aggregation (not the users in our world) has the possibility to examin our social relations, belief systems and a the opinions that drive a society in a specific direction. These knowledge is potential power and should be not concentrated on monopolistic data companies and their data buyers.&#x20;
+
+
+
+I believe that civil society didn't find use a  powerful enough thinking frameworks to understand, why we head to this situation with digital monopolists and data gatekeepers controlling information society.&#x20;
+
+I strongly oppose the current state of society since the current system don#t serve the people and is a mutated form of the original idea of the WWW with flourishing information diversity and enabeling peoples individual power to create and share and extend there knowledge there.
+

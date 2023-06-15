@@ -1,10 +1,10 @@
-# 1.3 Basics
+# V Definitions
 
-#### **1.3.1 Synergistic behavior**
+#### **V.I  Synergistic behavior**
 
 Synergistic behavior refers to the cooperative interaction of multiple components or agents that leads to an outcome that is greater than the sum of their individual contributions. In other words, the behavior of the system as a whole is more effective than the behavior of its individual parts in isolation. A common example of synergistic behavior is seen in the behavior of a flock of birds or a school of fish, where the collective behavior of the group is more effective at avoiding predators or finding food than the behavior of any individual member.
 
-#### **1.3.2 Emergent behavior**
+#### **V.II Emergent behavior**
 
 Emergent behavior on the other hand, refers to behavior that arises spontaneously from the interactions of individual components or agents in a system, without being directly programmed or controlled. Emergent behavior is often unpredictable and can be difficult to explain or understand based solely on the behavior of individual components. An example of emergent behavior is seen in the behavior of a traffic flow, where individual drivers may make decisions based on their own goals and preferences, but the resulting traffic patterns emerge from the interactions between all the drivers on the road.
 

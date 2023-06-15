@@ -4,6 +4,8 @@
 
 #### 1.2.1 General approach
 
+The start of
+
 First I decided to create a thinking framework to help me to answer some questions:
 
 _I Why new digital services could replace the old persistent ways of communicating in society ?_

@@ -5,7 +5,7 @@
 * [1.1 Preemble](README.md)
 * [1.2 Approach of this work](introduction/1.2-approach-of-this-work/README.md)
   * [1.2.2 Using Open AI’s GPT models for scientific work](introduction/1.2-approach-of-this-work/1.2.2-using-open-ais-gpt-models-for-scientific-work.md)
-* [1.3 Basics](introduction/1.3-basics.md)
+* [1.3 Contribute](introduction/1.3-contribute.md)
 
 ## Main
 
@@ -33,6 +33,7 @@
 * [II. Some funny conversation with gpt-4](appendix/ii.-some-funny-conversation-with-gpt-4.md)
 * [III. Test of providing sources via LLM](appendix/iii.-test-of-providing-sources-via-llm.md)
 * [IV. Digital service comparision - Removed LLM generated text](appendix/iv.-digital-service-comparision-removed-llm-generated-text.md)
+* [V Definitions](appendix/v-definitions.md)
 
 ## Experiments / Drafts
 
