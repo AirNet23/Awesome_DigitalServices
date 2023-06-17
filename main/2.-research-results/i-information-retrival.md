@@ -10,9 +10,9 @@ Also see:&#x20;
 
 **I.I Manual index web search (< 1993\[1])**&#x20;
 
-<mark style="background-color:orange;">Source: s. \[InVsY.5] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, Answer of Tom Peracchio, Matthew Petach, Richard Conto, Stan Hanks , retrieved on 17.05.2023</mark>
+_<mark style="background-color:orange;">Source: s. \[MindS.I] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, Answer of Tom Peracchio, Matthew Petach, Richard Conto, Stan Hanks , retrieved on 17.05.2023</mark>_
 
-\[MindS.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
+_\[GPT.MindS.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 Context: Quora question: "How did people search on the web before search engines were created?"
 
@@ -23,8 +23,6 @@ Context: Quora question: "How did people search on the web before search engines
 <mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Before search engines, directories like Yahoo! were prevalent in the mid-1990s, fulfilling similar functions in communication. These directories were influenced by the social environment of the time, which relied heavily on telephone directories for finding information. However, these prevalent services had disadvantages such as limited search capabilities and a lack of organization. People preferred using digital services like Yahoo! and AltaVista because they offered more efficient and organized ways to find information. The rise of the internet and the decline of traditional communication methods like rotary phones and telephone directories contributed to the growth of digital services and the decline of prevalent services. The digital services changed how people communicated by providing faster and more convenient ways to access information.</mark>
 
 **Part II -** [**Matthew Petach**](https://www.quora.com/profile/Matthew-Petach) **answer**
-
-
 
 <mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: source part, Service name: Manual index search]</mark>
 
@@ -50,75 +48,61 @@ Context: Quora question: "How did people search on the web before search engines
 
 **Part IV - Stan Hanks answer**
 
-**A:**&#x20;
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Before the creation of digital services like manual index web search, people relied on libraries, librarians, and physical documents like books and academic papers to find information.</mark>&#x20;
+
+<mark style="color:blue;">The social environment at the time was more focused on personal interactions and relationships with experts in various fields.</mark>
+
+&#x20;<mark style="color:blue;">Disadvantages of the prevalent services included the time-consuming nature of searching for information, the difficulty in accessing certain materials, and the reliance on physical copies of documents. People may have preferred using digital services for their speed, convenience, and ability to access a wider range of information.</mark>&#x20;
+
+<mark style="color:blue;">The rise of digital services was influenced by the values and concepts of human life and society, such as the desire for efficiency and the importance of communication.</mark>&#x20;
+
+<mark style="color:blue;">The use of digital services has both positive and negative consequences for individuals, groups, and society as a whole.</mark>&#x20;
+
+<mark style="color:blue;">Positive consequences include easier access to information and improved communication, while negative consequences may include the loss of personal interactions and the potential for intrusive data collection. The overall perception of users towards digital services like manual index web search is not mentioned in the text.</mark>
 
 
 
+_<mark style="background-color:orange;">Source: s. \[MindS.II]  https://ayushj.substack.com/p/the-evolution-of-search-past-present,retrieved on 17.05.2023</mark>_
+
+_\[GPT.MindS.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
+
+**Part I - Till Subheading "Carousel":**
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index web search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">In the early days of the internet, manual index web search services like Archie, Veronica, and Jughead were prevalent, created in 1990 and 1991 respectively.</mark>&#x20;
+
+<mark style="color:blue;">These services fulfilled similar functions in communication by indexing public files and file names, but they did not use web crawlers and were dependent on a list of websites. The social environment at the time influenced the development of these services as people needed a way to find and access information on the growing web.</mark>
+
+<mark style="color:blue;">However, these early search engines had disadvantages, such as limited space and the inability to index the content of sites, making them prone to spamming and decreasing the relevance of their results. People began to prefer using services like Google over the prevalent ones because of its unique citation-based ranking system, which provided more relevant and trustworthy search results.</mark>
+
+<mark style="color:blue;">The rise of Google and other advanced search engines provided an advantage in the market by offering features like natural language queries, unlimited bandwidth, and advanced search features. This led to the decline of manual index web search services as they could not compete with the efficiency and accuracy of newer search engines. The digital service of web search engines like Google changed how people communicated by making information more accessible and organized, leading to an index-based approach to browsing information.</mark>
+
+<mark style="color:blue;">The values and concepts of human life and society influenced the developers of these services by prioritizing relevance, trustworthiness, and efficiency in search results. The positive consequences of using these services include easier access to information, faster communication, and a more organized way of browsing the web. However, negative consequences may include an over-reliance on search engines and a decrease in the depth of knowledge gained from browsing information.</mark>
+
+<mark style="color:blue;">The overall perception of users towards services like Google is generally positive due to their efficiency and accuracy in providing relevant search results.</mark>
 
 
 
+**Part II - From Subheading "Algorithms " to end**
 
-_<mark style="background-color:orange;">Source: s. \[InVsY.6] https://ayushj.substack.com/p/the-evolution-of-search-past-present,retrieved on 17.05.2023</mark>_
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index web search]</mark>
 
-\[MindS.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
-
-Part I - Till Subheading "Carousel":
-
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
-
-<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">I.I The prevalent services fulfilling similar functions in communication at the creation of the service were Archie (1990), Veronica and Jughead (1991), Virtual Library (1992), World Wide Web Wanderer (1993), W3Catalog and Aliweb (1993), JumpStation (1993), Yahoo (1994), Webcrawler (1994), Lycos (1994), Infoseek and World-Wide Web Worm (1994), Looksmart (1995), Altavista (1995), RankDex (1996), BackRub (1996), Inktomi (1996), Ask Jeeves (1997), Google (1998), MSN search (1998), AlltheWeb (1999), and Baidu (2000).</mark>
-
-<mark style="color:blue;">I.III The disadvantages of the prevalent services were that they relied on keyword ranking, which made them prone to spamming and decreased the relevance of their results. They also did not use web crawlers and were dependent on a list of websites.</mark>
-
-<mark style="color:blue;">I.IV People preferred using services like Google over the prevalent ones because of its unique citation-based ranking system, which ranked pages based on the number of citations or the number of times they were mentioned on other webpages. This made Google's search results more relevant and trustworthy.</mark>
-
-<mark style="color:blue;">I.V Factors that provided an advantage to services like Google were its continuous improvements in search experience, making it smoother, faster, and more efficient. Google also introduced various feature changes like AdWords, Universal Search, Featured Snippets, Knowledge Graph, and Carousel, which enhanced the value of information returned by the search.</mark>
-
-<mark style="color:blue;">I.VI Factors that provided a disadvantage to the prevalent services were their reliance on keyword ranking, which made them prone to spamming and decreased the relevance of their results. They also did not use web crawlers and were dependent on a list of websites.</mark>
-
-<mark style="color:blue;">III.I Positive consequences for individuals, groups, and society by using services like Google include quick access to relevant information, the ability to search for specific types of content (images, news, maps, videos), and the convenience of finding answers to queries without having to click on any website.</mark>
-
-<mark style="color:blue;">III.II Negative consequences for individuals, groups, and society by using services like Google include the development of an index-based approach to browsing information, which may lead to a more superficial understanding of topics and less structured learning.</mark>
-
-<mark style="color:blue;">IV.I User benefits experienced by using services like Google include quick access to relevant information, the ability to search for specific types of content (images, news, maps, videos), and the convenience of finding answers to queries without having to click on any website. Disadvantages may include the development of an index-based approach to browsing information, which may lead to a more superficial understanding of topics and less structured learning.</mark>
-
-<mark style="color:blue;">IV.II The overall perception of the user to services like Google is positive, as they provide quick access to relevant information and a variety of features that enhance the search experience.</mark>
-
-
-
-Part II - From Subheading "Algorithms " to end
-
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
-
-<mark style="color:blue;">I.III The disadvantages of manual index search were that it was time-consuming, inefficient, and often resulted in irrelevant search results.</mark>
-
-<mark style="color:blue;">I.V People preferred using Google's search engine over manual index search because it provided more relevant, accurate, and faster search results.</mark>
-
-<mark style="color:blue;">III.I The positive consequences of using Google's search engine for individuals, groups, and society include quick access to information, improved user experience, and better decision-making based on accurate search results.</mark>
-
-<mark style="color:blue;">III.II The negative consequences of using Google's search engine for individuals, groups, and society include the potential for manipulation of search results, privacy concerns, and the decline of other search services due to Google's dominance.</mark>
-
-<mark style="color:blue;">III.III Google's search engine changed how people communicated by making it easier to find and share information, leading to more informed conversations and decision-making.</mark>
-
-<mark style="color:blue;">IV.I The user benefits of using Google's search engine include faster and more accurate search results, improved user experience, and access to a wide range of information. The disadvantages include potential privacy concerns and the dominance of Google in the search market, which may limit competition and innovation.</mark>
-
-<mark style="color:blue;">IV.II The overall perception of the user towards Google's search engine is positive, as it provides relevant and accurate search results, making it the top choice for users.</mark>
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The text does not provide enough information about manual index web search to answer the given questions.</mark>
 
 _Note: Maybe revisit the source on Google. They had detailed information about changes in Googles search algorithm._
 
 
 
-
-
 **I.II Yahoo (1994)**&#x20;
 
-_<mark style="background-color:orange;">Source: s. \[InVsY.1]</mark>_ <mark style="background-color:orange;"></mark><mark style="background-color:orange;">https://pulse2.com/the-current-state-of-yahoo-and-where-yahoos-acquisitions-since-1997-are-now/,</mark> <mark style="background-color:orange;"></mark>_<mark style="background-color:orange;">retrieved on 17.05.2023</mark>_
+_<mark style="background-color:orange;">Source: s. \[Yahoo.I]</mark>_ <mark style="background-color:orange;"></mark><mark style="background-color:orange;">https://pulse2.com/the-current-state-of-yahoo-and-where-yahoos-acquisitions-since-1997-are-now/,</mark> <mark style="background-color:orange;"></mark>_<mark style="background-color:orange;">retrieved on 17.05.2023</mark>_
 
-\[Yahoo.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
+_\[GPT.Yahoo.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 **Part I - Until subheading 15. Arthas.com**
 
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
 
 <mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Yahoo has acquired several companies over the years, including Net Controls Corporation, Four11, Classic Games, Viaweb, WebCal Corporation, Yoyodyne Entertainment, Sportasy, HYPERParallel, Log-Me-On.com, GeoCities.com, Encompass, Online Anywhere, Broadcast.com, Innovative Systems Services Group, and Arthas.com. These acquisitions have helped Yahoo expand its services and user base, offering a variety of communication and social media platforms.</mark>
 
@@ -140,7 +124,7 @@ _<mark style="background-color:orange;">Source: s. \[InVsY.1]</mark>_ <mark styl
 
 **Part 2 - Subheading 16. e Groups - 30.  Stata Labs, Inc.**
 
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
 
 <mark style="color:blue;">Yahoo! has acquired several companies and services throughout its history, including eGroups, Kimo, Sold.com.au, LAUNCH Media Inc., HotJobs, Cade, AlltheWeb, Inktomi, Overture, 3721 Internet Assistant, Kelkoo, Oddpost, The All-Seeing Eye, MusicMatch, Stata Labs, and more. These acquisitions have allowed Yahoo! to expand its offerings and reach in various markets, such as email management, search engines, online auctions, music services, job search, and gaming.</mark>
 
@@ -154,7 +138,7 @@ _<mark style="background-color:orange;">Source: s. \[InVsY.1]</mark>_ <mark styl
 
 **Part 3 - subheading  31. Verdisoft till end**
 
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
 
 <mark style="color:blue;">**A:**</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">Yahoo has acquired several companies over the years, including VerdiSoft, Ludicorp Research (owner of Flickr), Stadeon, TeRespondo, Dialpad, Blo.gs, Konfabulator, Alibaba.com, Upcoming.org, Whereonearth, Del.icio.us, JumpCut, AdInterax, and Bix.com. These acquisitions have helped Yahoo expand its services and user base, offering a variety of communication and social media platforms.</mark>
 
@@ -176,71 +160,49 @@ _<mark style="background-color:orange;">Source: s. \[InVsY.1]</mark>_ <mark styl
 
 
 
-_<mark style="background-color:orange;">Source: s. \[InVsY.2] Source: s. \[InVsY.2] https://en.wikipedia.org/wiki/Yahoo!, retrieved on 17.05.2023</mark>_
+_<mark style="background-color:orange;">Source: s. \[Yahoo.II] https://en.wikipedia.org/wiki/Yahoo!, till end of subheading '</mark>_<mark style="background-color:orange;">Decline, security breaches, and sale'</mark>_<mark style="background-color:orange;">,retrieved on 17.05.2023</mark>_
 
-**-** In January 1994, Yang and Filo were electrical engineering graduate students at [Stanford University](https://en.wikipedia.org/wiki/Stanford\_University), when they created a website named "Jerry and David's guide to the World Wide Web".[\[9\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-9)[\[10\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-How\_Jerry-10)[\[11\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-11)[\[12\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-12)
+_\[GPT.Yahoo.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
-\- The site was a human-edited [web directory](https://en.wikipedia.org/wiki/Web\_directory), organized in a hierarchy, as opposed to a searchable index of pages. In March 1994, "Jerry and David's Guide to the World Wide Web" was renamed "Yahoo!" and became known as the [Yahoo Directory](https://en.wikipedia.org/wiki/Yahoo!\_Directory)
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
 
-\- Yahoo was incorporated on March 2, 1995. In 1995, a [search engine](https://en.wikipedia.org/wiki/Search\_engine) function, called Yahoo Search, was introduced. This allowed users to search Yahoo Directory.[\[22\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-22)[\[23\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-23) Yahoo soon became the first popular online directory and search engine on the [World Wide Web](https://en.wikipedia.org/wiki/World\_Wide\_Web).[\[24\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-24)
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Yahoo was established in 1994 by Jerry Yang and David Filo, who were influenced by the social environment of the early internet era. At the time, Yahoo was a pioneer in providing a human-edited web directory, which was organized hierarchically and offered a search engine function. This was an advantage over other prevalent services, which were not as user-friendly or organized. People preferred using Yahoo due to its ease of use and comprehensive directory.</mark>
 
-\- By 1998, Yahoo was the most popular starting point for web users,[\[27\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-27) and the human-edited Yahoo Directory the most popular search engine,[\[15\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-Directory-15) receiving 95 million page views per day, triple that of rival Excite.[\[25\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-auto-25) It also made many high-profile acquisitions.
+<mark style="color:blue;">The values and concepts of human life and society influenced the developers by focusing on providing a source of truth and wisdom through their hierarchical organization. Yahoo's initial success can be attributed to its rapid growth and expansion, as well as its acquisitions of other companies like RocketMail and Geocities.</mark>
 
-**Summary:**
+<mark style="color:blue;">Positive consequences of using Yahoo include easy access to information, communication through Yahoo Mail, and a variety of services like Yahoo News, Finance, and Sports. However, negative consequences include the decline in usage due to competition from other tech giants like Google and Facebook, as well as security breaches that affected user data.</mark>
 
-\- Yahoo used a mixture of human editet search catalog and a textual interface to lookup the catalogue
+<mark style="color:blue;">Users may have experienced benefits such as convenience and a wide range of services, but also faced disadvantages like security concerns and the decline in popularity of the platform. The overall perception of Yahoo has changed over time, with its decline in usage and market share. Despite potential intrusive data collection, users may not act on the dangers of data extraction and behavioral prediction due to a lack of awareness or the convenience of the services provided.</mark>
 
-\- It was founded by university students
-
-\- Yahoo grew to the most popular search engine until the year 1998
+<mark style="color:blue;">In summary, Yahoo was a pioneer in the early internet era, providing a user-friendly and organized web directory and search engine. Its growth and expansion were influenced by societal values and the need for accessible information. However, competition and security breaches led to its decline, and users now face both benefits and disadvantages when using the platform.</mark>
 
 
 
+_<mark style="background-color:orange;">Source: s. \[IYahoo.III] https://web.archive.org/web/20080331063248/http://yhoo.client.shareholder.com/press/ReleaseDetail.cfm?ReleaseID=173399, retrieved on 17.05.2023</mark>_
+
+_\[Yahoo.III], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">In 1996, Yahoo launched Yahoo! Germany, a localized German version of its popular online guide to the Internet.</mark>&#x20;
+
+<mark style="color:blue;">This service provided access to a comprehensive guide to German web sites, as well as the complete database of worldwide listings people have come to expect from Yahoo! At the time, Yahoo! was a leader in terms of traffic, receiving an average of 14 million page views per day as of September 1996. The German version of Yahoo! aimed to provide seamless access to the full directory listings of the main Yahoo! site, making it the first navigational site to provide a comprehensive listing of German sites and the rest of the World Wide Web.</mark>&#x20;
+
+<mark style="color:blue;">Yahoo! Germany also carried services targeted to the needs of a German audience, such as headline news and full-text from Reuters, via German newsfeeds in business, sports, and general news. The popular "What's New", "What's Cool", and "Random" features of Yahoo! Germany were created by a local editorial team. Yahoo! Germany introduced a proven advertising platform for the German market, launching with German consumer and technology advertisers on board. Users of Yahoo! Germany could also access Yahoo!'s fully integrated Web-wide searching capabilities provided by Alta Vista. IBM joined forces with Yahoo! by providing server technology and IBM PCs to Yahoo! Germany. Yahoo! in Europe was powered by IBM servers to ensure that users continued to enjoy the rapid response times and service they had come to expect from Yahoo!</mark>
 
 
-**-** October 10, 1996 -- Yahoo!, the world's most popular online guide to the Internet, today launches Yahoo! Germany, a localized German version in the local language
 
-**-** now comprises a classification of more than 400,000 sites on the World Wide Web. Yahoo! is a leader in terms of traffic, receiving an average 14 million page views per day as of September 1996.
+_<mark style="background-color:orange;">Source: s. \[IYahoo.IV] https://searchengineland.com/yahoo-directory-close-204370, retrieved on 17.05.2023</mark>_
 
-\- German version of Yahoo! will provide seamless access to the full directory listings of main Yahoo!, making it the first navigational site to provide a comprehensive listing of German sites and the rest of the WWW. Yahoo! Germany will list all German web sites first plus full access to relevant worldwide sites.
-
-\- Yahoo! Germany will also carry services targeted to the needs of a German audience. Yahoo! Germany will be the only web site in Germany to provide headline news and full-text from Reuters, via German newsfeeds in business, sports and general news. The popular "What's New", "What's Cool" and "Random" features of Yahoo! Germany will be created by a local editorial team. More value-added services are set to follow.
-
-\- Yahoo! Germany introduces a proven advertising platform for the German market. The new site is launching with German consumer and technology advertisers on board (…)
-
-\- Users of Yahoo! Germany will also be able to access Yahoo!'s fully integrated Web-wide searching capabilities provided by Alta Vista. Searching and browsing features on Yahoo! are integrated to allow the user to choose the most appropriate navigational methods at any point during the quest for information. Web users of all skill levels can easily navigate through Yahoo!'s hierarchical index, which gives access to the largest database of >web sites catalogued by people.
-
-**Summary:**
-
-\- Yahoo adapted its services to other cultures and countries, by using integrating local organisations and companies into their service. Also the build team sof loca editors to deliver valueable news.
-
-\- Yahoo Germnay managed to publish the first news service from Reuters to their customers in Germany.
-
-\- Yahho Germany not only provide local sites, but also whole catalogue for the world wide web.
-
-_Source: s. \[InVsY.3] https://web.archive.org/web/20080331063248/http://yhoo.client.shareholder.com/press/ReleaseDetail.cfm?ReleaseID=173399, retrieved on 17.05.2023_
+_\[Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 ![](<../../.gitbook/assets/0 (1).png>)
 
-\- Yahoo Directory \[was a] (...) hand-compiled list of websites, organized into topics. Now, the venerable Yahoo Directory is closing.
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
 
-**-** When Yahoo began in 1994, the most common way people found websites was to browse through lists, where sites were often organized into topics.
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Yahoo Directory was the most popular search engine on the web before Google came along in 1998. It was a hand-compiled list of websites organized into topics, and it was effective because there weren't many pages on the web at the time, and automated search technology wasn't very good. Yahoo Directory's main disadvantage was that it relied on humans to review websites, summarize them, and organize them into categories, which led to long delays in listing new sites and sometimes made sites effectively invisible. People preferred Google over Yahoo Directory because Google's search algorithm was better, and it allowed users to search through every page of every website, making it easier to find relevant information. The rise of Google and its partnership with Yahoo in 2000 led to the decline of Yahoo Directory, as Yahoo started presenting Google's search results as the main listings to searchers. This marked the beginning of Yahoo Directory's long, slow death, and it was eventually closed in 2014.</mark>
 
-\- Founders Jerry Yang and David Filo quickly realized their own list needed a better name than “Jerry and David’s Guide to the World Wide Web.” They settled on Yahoo! (with exclamation mark). That stood for “Yet Another Hierarchical Officious Oracle” — a reference to organizing sites in a hierarchical order.
 
-\- A “directory” relies on humans to review websites, summarize them with short descriptions and organize them into a categories. When Yahoo started, this **system was effective,** because there weren’t that many pages on the web (relatively speaking) and automated search technology to organize websites wasn’t very good.
-
-\- \[This organisation of information] contributed in a big way Yahoo’s popularity over traditional search engines like InfoSeek or Excite that used automation. **Yahoo had better relevance.** You could find what you were looking for.
-
-\- Yahoo was so popular that publishers had real worries about getting included. From around 1996-1999, there were long delays to list new sites. Sites that did get in could find they were effectively invisible because a Yahoo editor might have changed their descriptions in a way that didn’t include important keywords.
-
-**Conclusion:**
-
-\- Yahoo was first an human sorted and hierachical structured website dictionary and later develped into an interface for an search service based on that dictionary.
-
-\- It provided a surplus to many users because it provided relevant results. This was possible, because the amount of websites was not so high and it could be easy structured and sorted by humans.
-
-_Source: s. \[InVsY.4] https://searchengineland.com/yahoo-directory-close-204370, retrieved on 17.05.2023_
 
 Relevanz: _„As of Jan. 2020, Google owned 87.4% of the global market share of search engines“_
 
