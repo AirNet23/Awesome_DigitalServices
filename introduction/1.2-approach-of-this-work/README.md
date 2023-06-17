@@ -14,31 +14,35 @@ In the second line I want to <mark style="color:orange;">find answers to some qu
 
 **I. Evolution of digital services**
 
-I.I What were the disadvantages of the old services ?
+I.I How did the social environment influenced the idea and the start of development of the digital service ?
 
-I.II Why people prefer using the new services  over the old one ?
+I.II What were the disadvantages of the prevalent services ?
 
-I.III Which other factors provided an advante to the new service that it could grow in the market ?
+I.III Why people prefer using the services  over the prevalent ones ?
 
-I.IV Which other factors provided an disadvantage to the old service that it declined in the market ?
+I.IV Which other factors provided an advantage to the service that it could grow in the market ?
 
-I.V Why new digital services could replace the prelevant ways of a specific communication style in society ?
+I.V Which other factors provided an disadvantage to the prevalent service that it declined in the market ?
+
+I.VI If happened: Why could the digital service could change how people communicated ?
 
 
 
 **II.Stability of values**
 
-II.I How the values and concepts of society of the developers influenced the rise of their service ?
+II.I How the values and concepts of human life and society influenced the developers and the rise of their service ?
 
-II.II How did the values and concepts changed to the values that express the platform today (in an article) ?
+II.II How did the values and concepts from star tof development changed to the values that express the service/platform today ?
 
 
 
 **III. Consequences and influence of digital services**
 
-III.I Which positive consequences occur for a individual, a group, a society by using this services ?&#x20;
+III.I Which positive consequences occur for a individual, a group, a society by using this service ?&#x20;
 
-III.II Which negative consequences occur for a individual, a group, a society by using this services ?
+III.II Which negative consequences occur for a individual, a group, a society by using this service ?
+
+III.III How did the digital service change how people communicated ?
 
 
 
