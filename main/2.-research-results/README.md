@@ -132,6 +132,8 @@ The following questions are a template for a detailed mid length summary of the 
 
 <mark style="color:blue;">IV.III If the service collects user data intrusively: Why people don't act on the dangers of data extraction and behavioral prediction ?</mark>
 
-<mark style="color:blue;">Answer the questions using ONLY the texts information. Follow the extra instructions for each question in round bracets. For each question form one ore more sense sections. SKIP questions, where there is no information in the text. KEEP THE ORDER of the questions if possible. WRITE DOWN the number of the question that got answered. AVOID general terms for an explanation, use examples if given. DON'T mix sense sections referring to different questions. DON'T provide information that is not in the text.</mark>
+<mark style="color:blue;">Service: \[Servicename to focus on]</mark>
+
+<mark style="color:blue;">Answer the questions using ONLY the texts information about the service. Follow the extra instructions for each question in round bracets. Always give atleast one reason per aspect of your  answer. For each question form one ore more sense sections. SKIP questions, where there is no information in the text. KEEP THE ORDER of the questions if possible. WRITE DOWN the number of the question that got answered. AVOID general terms for an explanation, use examples if given. DON'T mix sense sections referring to different questions. DON'T provide information that is not in the text.</mark>
 
 **I will publish results soon.**

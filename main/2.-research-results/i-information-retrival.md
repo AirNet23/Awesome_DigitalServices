@@ -1,12 +1,103 @@
 # I Information retrival
 
-Also see: [https://en.wikipedia.org/wiki/Timeline\_of\_web\_search\_engines](https://en.wikipedia.org/wiki/Timeline\_of\_web\_search\_engines)
+Also see:&#x20;
 
-[https://www.thehistoryofseo.com/The-Industry/Short\_History\_of\_Early\_Search\_Engines.aspx](https://www.thehistoryofseo.com/The-Industry/Short\_History\_of\_Early\_Search\_Engines.aspx)
+{% embed url="https://en.wikipedia.org/wiki/Timeline_of_web_search_engines" %}
 
-[https://www.hpe.com/us/en/insights/articles/how-search-worked-before-google-1703.html](https://www.hpe.com/us/en/insights/articles/how-search-worked-before-google-1703.html)
+{% embed url="https://www.thehistoryofseo.com/The-Industry/Short_History_of_Early_Search_Engines.aspx" %}
 
-**I.I Indexsuche (< 1993\[1]) vs. Yahoo (1994)**
+{% embed url="https://www.hpe.com/us/en/insights/articles/how-search-worked-before-google-1703.html" %}
+
+**I.I Manual index search (< 1993\[1])**&#x20;
+
+<mark style="background-color:orange;">Source: s. \[InVsY.5] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, Answer of Tom Peracchio, Matthew Petach and Richard Conto (mixed)  , retrieved on 17.05.2023</mark>
+
+\[MindS.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
+
+**Summary:**
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: source, Service: Manual index search]</mark>
+
+<mark style="color:blue;">**A:**</mark>
+
+<mark style="color:blue;">I.I Prevalent services before search engines included rotary dial telephones, telephone directories (white pages and yellow pages), and Yahoo! directory. The World Wide Web also had other information sharing services like NNTP, UUCP, Gopher, FTP, and email. (No specific dates of creation are mentioned in the text)</mark>
+
+<mark style="color:blue;">I.III Disadvantages of the prevalent services included:</mark>
+
+* <mark style="color:blue;">Limited scope: Directories were only sufficient when the web was small.</mark>
+* <mark style="color:blue;">Manual management: Managing pages of links by hand was a pain.</mark>
+* <mark style="color:blue;">Inefficient search: Early search engines like AltaVista were primitive and often resulted in a frustrating set of useless responses.</mark>
+
+<mark style="color:blue;">I.V People preferred using new services over the prevalent ones because:</mark>
+
+* <mark style="color:blue;">Automation: New services automated the process of managing links and directories.</mark>
+* <mark style="color:blue;">Improved search capabilities: New search engines provided better heuristics and more relevant results.</mark>
+
+<mark style="color:blue;">III.I Positive consequences of using new services include:</mark>
+
+* <mark style="color:blue;">Easier access to information: Improved search capabilities made it easier for individuals and groups to find relevant information on the internet.</mark>
+
+<mark style="color:blue;">III.III The digital service changed how people communicated by making it easier to find and access information on the internet, moving away from manual directories and towards automated search engines.</mark>
+
+<mark style="color:blue;">IV.I User benefits of using new services include:</mark>
+
+* <mark style="color:blue;">Easier access to information: Improved search capabilities made it easier for individuals and groups to find relevant information on the internet. (No user disadvantages are mentioned in the text)</mark>
+
+
+
+_<mark style="background-color:orange;">Source: s. \[InVsY.6] https://ayushj.substack.com/p/the-evolution-of-search-past-present,retrieved on 17.05.2023</mark>_
+
+\[MindS.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
+
+Part I - Till Subheading "Carousel":
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">I.I The prevalent services fulfilling similar functions in communication at the creation of the service were Archie (1990), Veronica and Jughead (1991), Virtual Library (1992), World Wide Web Wanderer (1993), W3Catalog and Aliweb (1993), JumpStation (1993), Yahoo (1994), Webcrawler (1994), Lycos (1994), Infoseek and World-Wide Web Worm (1994), Looksmart (1995), Altavista (1995), RankDex (1996), BackRub (1996), Inktomi (1996), Ask Jeeves (1997), Google (1998), MSN search (1998), AlltheWeb (1999), and Baidu (2000).</mark>
+
+<mark style="color:blue;">I.III The disadvantages of the prevalent services were that they relied on keyword ranking, which made them prone to spamming and decreased the relevance of their results. They also did not use web crawlers and were dependent on a list of websites.</mark>
+
+<mark style="color:blue;">I.IV People preferred using services like Google over the prevalent ones because of its unique citation-based ranking system, which ranked pages based on the number of citations or the number of times they were mentioned on other webpages. This made Google's search results more relevant and trustworthy.</mark>
+
+<mark style="color:blue;">I.V Factors that provided an advantage to services like Google were its continuous improvements in search experience, making it smoother, faster, and more efficient. Google also introduced various feature changes like AdWords, Universal Search, Featured Snippets, Knowledge Graph, and Carousel, which enhanced the value of information returned by the search.</mark>
+
+<mark style="color:blue;">I.VI Factors that provided a disadvantage to the prevalent services were their reliance on keyword ranking, which made them prone to spamming and decreased the relevance of their results. They also did not use web crawlers and were dependent on a list of websites.</mark>
+
+<mark style="color:blue;">III.I Positive consequences for individuals, groups, and society by using services like Google include quick access to relevant information, the ability to search for specific types of content (images, news, maps, videos), and the convenience of finding answers to queries without having to click on any website.</mark>
+
+<mark style="color:blue;">III.II Negative consequences for individuals, groups, and society by using services like Google include the development of an index-based approach to browsing information, which may lead to a more superficial understanding of topics and less structured learning.</mark>
+
+<mark style="color:blue;">IV.I User benefits experienced by using services like Google include quick access to relevant information, the ability to search for specific types of content (images, news, maps, videos), and the convenience of finding answers to queries without having to click on any website. Disadvantages may include the development of an index-based approach to browsing information, which may lead to a more superficial understanding of topics and less structured learning.</mark>
+
+<mark style="color:blue;">IV.II The overall perception of the user to services like Google is positive, as they provide quick access to relevant information and a variety of features that enhance the search experience.</mark>
+
+
+
+Part II - From Subheading "Algorithms " to end
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+
+<mark style="color:blue;">I.III The disadvantages of manual index search were that it was time-consuming, inefficient, and often resulted in irrelevant search results.</mark>
+
+<mark style="color:blue;">I.V People preferred using Google's search engine over manual index search because it provided more relevant, accurate, and faster search results.</mark>
+
+<mark style="color:blue;">III.I The positive consequences of using Google's search engine for individuals, groups, and society include quick access to information, improved user experience, and better decision-making based on accurate search results.</mark>
+
+<mark style="color:blue;">III.II The negative consequences of using Google's search engine for individuals, groups, and society include the potential for manipulation of search results, privacy concerns, and the decline of other search services due to Google's dominance.</mark>
+
+<mark style="color:blue;">III.III Google's search engine changed how people communicated by making it easier to find and share information, leading to more informed conversations and decision-making.</mark>
+
+<mark style="color:blue;">IV.I The user benefits of using Google's search engine include faster and more accurate search results, improved user experience, and access to a wide range of information. The disadvantages include potential privacy concerns and the dominance of Google in the search market, which may limit competition and innovation.</mark>
+
+<mark style="color:blue;">IV.II The overall perception of the user towards Google's search engine is positive, as it provides relevant and accurate search results, making it the top choice for users.</mark>
+
+_Note: Maybe revisit the source on Google. They had detailed information about changes in Googles search algorithm._
+
+
+
+
+
+**I.II Yahoo (1994)**&#x20;
 
 Yahoo company spreading his portfolio and technologies heavely by acquisations. The senior VP listed all the acquisations since and argued, that Yahoo needs to use its own ressources better. The following is a blog post that sum ups the acquisations since 1997
 
@@ -35,6 +126,8 @@ And furtther more...
 \- Only a small part of the technology mad ein the final Yahoo plattform, so the technolgies of the companies were rather not used, or unnecessary bought.
 
 _Source: s. \[InVsY.1]_ https://pulse2.com/the-current-state-of-yahoo-and-where-yahoos-acquisitions-since-1997-are-now/, _retrieved on 17.05.2023_
+
+
 
 **-** In January 1994, Yang and Filo were electrical engineering graduate students at [Stanford University](https://en.wikipedia.org/wiki/Stanford\_University), when they created a website named "Jerry and David's guide to the World Wide Web".[\[9\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-9)[\[10\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-How\_Jerry-10)[\[11\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-11)[\[12\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-12)
 
@@ -97,48 +190,6 @@ _Source: s. \[InVsY.3] https://web.archive.org/web/20080331063248/http://yhoo.cl
 \- It provided a surplus to many users because it provided relevant results. This was possible, because the amount of websites was not so high and it could be easy structured and sorted by humans.
 
 _Source: s. \[InVsY.4] https://searchengineland.com/yahoo-directory-close-204370, retrieved on 17.05.2023_
-
-\- If you needed to search for someone's telephone number, your primary tool was the telephone book, sometimes referred to as a telephone directory. The white pages listed people's name alphabetically. The yellow pages listed businesses by category. Advertising in the yellow pages was a primary tool many people used when searching for a business in the days of telephones.
-
-\- WWW was introduced in 1990 and till that time all the website were privatized and so information was passed manually with no search required.
-
-\- W3Catalog was the first one to be called as primitive search engine which had a web robot to index the files and make it faster and scalable.
-
-\- With introduction of WWW. Then came the need to know the web pages out there in world introduced by someone you don't know. So in late 1990 first web search tool was born named [Archie](http://en.wikipedia.org/wiki/Archie\_search\_engine%22%20/t%20%22\_blank) . It got it's name for resembling Archive and so Archie without a "V". not sure what was the problem with "V" though. This tool use to download the whole webpage DNS via FTP and search on it. The worst part was that reference were non indexed . So in short was very crude and not scalable at all.
-
-**Conclusion:**
-
-\- Categorizing information in dictionaries was an traditional way of dealign with lot of amount of information. Telephone books listed companies by types.
-
-\- When the public web developed this concept was transferred an lead to the creation of tools like Gopher or Yahoo
-
-\- A further development was the automation of finding and indexing websites by their name and text content, that lead finally to the development of google.
-
-_Source: s. \[InVsY.5] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, retrieved on 17.05.2023_
-
-**-** The core idea behind any search engine is information retrieval based on a user’s query.
-
-**-** Internet owes its origin to the development of ARPANET in 1969, but search engines came almost two decades later in the 90s. Prior to this people only shared website links and names directly and through word to mouth publicity.
-
-\- **1990:** The first search engine, **Archie** appeared. Archie indexed public files available for download from sites that used FTP (file transfer protocol). Due to limited space, they did not index the content for sites and only provided their directory listings.
-
-**- 1991:** With the rise of Gopher protocol, two new search engines emerge: **Veronica** and **Jughead** (which are characters from the comic series, Archies!), which index file names and titles stored in Gopher index systems.
-
-**- 1993:** The first known web crawler, **World Wide Web Wanderer**, was developed, that measured the growth of the internet and stored it in the Wandex database.
-
-The first web-based search engines: **W3Catalog** and **Aliweb** are released. They did not use web crawlers and were dependent on a list of websites.
-
-By the end of the year, the first web search engine to use crawling and indexing to display search results, **JumpStation** was released.
-
-\- **1994: Yahoo** is born! Created by David Filo and Jerry Yang, it became the first popular web directory. It relied on humans to provide short descriptions for each URL and organize them into categories.
-
-\- James Cordata says that we have now developed an index-based approach when browsing information, similar to looking for keywords at the end of a book and going to the specific pages instead of going to the table of contents and then following up on the information. The latter offers information in a much more structured way, and we end up knowing a lot more than what we were actually looking for. → Information are more substructured
-
-**Conclusion:** At the beginning websites got shared via talking in private group. As soon websites became public available via the DNS systems people started to organize the access to them. First they created Indexing tools and protocols that could index file names and paths, later extended it to content. The next development was the autoamtic discovery of new sites opposing to the manual registration of sites.
-
-_Source: s. \[InVsY.6] https://ayushj.substack.com/p/the-evolution-of-search-past-present, retrieved on 17.05.2023_
-
-**I.II Yahoo (1994) vs. Google (1998)**
 
 Relevanz: _„As of Jan. 2020, Google owned 87.4% of the global market share of search engines“_
 
