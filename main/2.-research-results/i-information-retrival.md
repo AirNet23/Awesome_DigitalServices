@@ -8,40 +8,53 @@ Also see:&#x20;
 
 {% embed url="https://www.hpe.com/us/en/insights/articles/how-search-worked-before-google-1703.html" %}
 
-**I.I Manual index search (< 1993\[1])**&#x20;
+**I.I Manual index web search (< 1993\[1])**&#x20;
 
-<mark style="background-color:orange;">Source: s. \[InVsY.5] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, Answer of Tom Peracchio, Matthew Petach and Richard Conto (mixed)  , retrieved on 17.05.2023</mark>
+<mark style="background-color:orange;">Source: s. \[InVsY.5] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, Answer of Tom Peracchio, Matthew Petach, Richard Conto, Stan Hanks , retrieved on 17.05.2023</mark>
 
 \[MindS.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
 
-**Summary:**
+Context: Quora question: "How did people search on the web before search engines were created?"
 
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: source, Service: Manual index search]</mark>
+**Part I -** [**Tom Peracchio**](https://www.quora.com/profile/Tom-Peracchio) **answer**
 
-<mark style="color:blue;">**A:**</mark>
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: source part, Service name: Manual index search]</mark>
 
-<mark style="color:blue;">I.I Prevalent services before search engines included rotary dial telephones, telephone directories (white pages and yellow pages), and Yahoo! directory. The World Wide Web also had other information sharing services like NNTP, UUCP, Gopher, FTP, and email. (No specific dates of creation are mentioned in the text)</mark>
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Before search engines, directories like Yahoo! were prevalent in the mid-1990s, fulfilling similar functions in communication. These directories were influenced by the social environment of the time, which relied heavily on telephone directories for finding information. However, these prevalent services had disadvantages such as limited search capabilities and a lack of organization. People preferred using digital services like Yahoo! and AltaVista because they offered more efficient and organized ways to find information. The rise of the internet and the decline of traditional communication methods like rotary phones and telephone directories contributed to the growth of digital services and the decline of prevalent services. The digital services changed how people communicated by providing faster and more convenient ways to access information.</mark>
 
-<mark style="color:blue;">I.III Disadvantages of the prevalent services included:</mark>
+**Part II -** [**Matthew Petach**](https://www.quora.com/profile/Matthew-Petach) **answer**
 
-* <mark style="color:blue;">Limited scope: Directories were only sufficient when the web was small.</mark>
-* <mark style="color:blue;">Manual management: Managing pages of links by hand was a pain.</mark>
-* <mark style="color:blue;">Inefficient search: Early search engines like AltaVista were primitive and often resulted in a frustrating set of useless responses.</mark>
 
-<mark style="color:blue;">I.V People preferred using new services over the prevalent ones because:</mark>
 
-* <mark style="color:blue;">Automation: New services automated the process of managing links and directories.</mark>
-* <mark style="color:blue;">Improved search capabilities: New search engines provided better heuristics and more relevant results.</mark>
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: source part, Service name: Manual index search]</mark>
 
-<mark style="color:blue;">III.I Positive consequences of using new services include:</mark>
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The text discusses the early days of the internet when a simple directory was sufficient to keep track of websites. Services like Akebono at Stanford University provided categorized directories of web pages. As the number of sites grew, search engines like AltaVista, Inktomi, and Excite@Home emerged, using web spiders to crawl and index websites. However, these early search engines were simplistic and often provided frustrating and useless search results.</mark>
 
-* <mark style="color:blue;">Easier access to information: Improved search capabilities made it easier for individuals and groups to find relevant information on the internet.</mark>
+<mark style="color:blue;">I.III: The disadvantages of the prevalent services included their simplicity, limited capacity to keep track of the growing number of websites, and the often frustrating and useless search results they provided.</mark>
 
-<mark style="color:blue;">III.III The digital service changed how people communicated by making it easier to find and access information on the internet, moving away from manual directories and towards automated search engines.</mark>
+<mark style="color:blue;">I.IV: People preferred using these early search engines over directories because they offered a more comprehensive index of websites and the ability to search for specific content.</mark>
 
-<mark style="color:blue;">IV.I User benefits of using new services include:</mark>
+<mark style="color:blue;">III.I: Positive consequences of using these early search engines included easier access to information and a more comprehensive index of websites.</mark>
 
-* <mark style="color:blue;">Easier access to information: Improved search capabilities made it easier for individuals and groups to find relevant information on the internet. (No user disadvantages are mentioned in the text)</mark>
+<mark style="color:blue;">III.II: Negative consequences of using these early search engines included frustrating and often useless search results due to their simplistic nature.</mark>
+
+<mark style="color:blue;">IV.I: User benefits of these early search engines included easier access to information and a more comprehensive index of websites. Disadvantages included frustrating and often useless search results.</mark>
+
+<mark style="color:blue;">IV.II: The overall perception of the user to these early search engines is not mentioned in the text.</mark>
+
+**Part III - Richard Conto answer**
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: source part, Service name: Manual index search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Before search engines like Google, there were various information sharing services on the Internet, such as NNTP, UUCP, Gopher, FTP, and email. People would often publish pages of links to things, and in some cases, send requests via email to see a directory of retrievable items. Users would also subscribe to information distribution lists to search for content.</mark>
+
+**Part IV - Stan Hanks answer**
+
+**A:**&#x20;
+
+
+
+
 
 
 
@@ -99,35 +112,71 @@ _Note: Maybe revisit the source on Google. They had detailed information about c
 
 **I.II Yahoo (1994)**&#x20;
 
-Yahoo company spreading his portfolio and technologies heavely by acquisations. The senior VP listed all the acquisations since and argued, that Yahoo needs to use its own ressources better. The following is a blog post that sum ups the acquisations since 1997
+_<mark style="background-color:orange;">Source: s. \[InVsY.1]</mark>_ <mark style="background-color:orange;"></mark><mark style="background-color:orange;">https://pulse2.com/the-current-state-of-yahoo-and-where-yahoos-acquisitions-since-1997-are-now/,</mark> <mark style="background-color:orange;"></mark>_<mark style="background-color:orange;">retrieved on 17.05.2023</mark>_
 
-**Net Controls Corporatio**n was Yahoo!’s first major acquisition. Net Controls Corporation developed software that was the basis of the My Yahoo! Ticker. The premise of Net Controls’ product was to provide a customized stock, sports, and weather ticker in the Microsoft Windows operating systems taskbar.
+\[Yahoo.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
 
-Yahoo!’s purchase of Four11 for $92 million has now evolved into Yahoo! People Search. Yahoo! People Search seems to have remained the same since the purchase as its only functions are to search people by their first and last name, address, e-mail address, and phone number.
+**Part I - Until subheading 15. Arthas.com**
 
-**The acquisition of ClassicGames.com** brought Yahoo! into the realm of online gaming. Yahoo! Games which was partially powered by ClassicGames.com is now a place for users to download all types games for about $19.99 per game. [Back then](http://web.archive.org/web/19980109120448/http://classicgames.com/%22%20/t%20%22\_blank), ClassicGames.com was a website where users could play a few select Java-based multiplayer games such as Hearts, Spades, and Euchre. To see another move Yahoo! made to penetrate the massive gaming market, also look into the acquisition of The All Seeing Eye below.
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
 
-**Yahoo acquired GeoCities: Ah yes, GeoCities.** I would call GeoCities the “MySpace” of the 90s. GeoCities is still alive and running on Yahoo! and is a free homepage builder that costs up to $8.95 per month for premium services. Geocities was Yahoo’s first acquisition billion dollar plus acquisition.
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Yahoo has acquired several companies over the years, including Net Controls Corporation, Four11, Classic Games, Viaweb, WebCal Corporation, Yoyodyne Entertainment, Sportasy, HYPERParallel, Log-Me-On.com, GeoCities.com, Encompass, Online Anywhere, Broadcast.com, Innovative Systems Services Group, and Arthas.com. These acquisitions have helped Yahoo expand its services and user base, offering a variety of communication and social media platforms.</mark>
 
-**GeoCities** was founded by David Bohnett and John Rezner in 1994. Before GeoCities was acquired and revamped GeoCities, communities were heavily advocated. Users selected a “city” to group their webpages with a certain clique. These cities were related to the website content that the user was planning on focusing upon. For example, entertainment websites were “Hollywood” and computer-related websites were “SiliconValley.”
+<mark style="color:blue;">I.II The social environment at the time of these acquisitions was characterized by a growing interest in online communication, social media, and digital services. This influenced the development of these services as they aimed to fulfill the needs and desires of users in this evolving digital landscape.</mark>
 
-GeoCities started as BHI or “Beverly Hills Internet” at www.bhi90210.com and was a small web hosting company in southern California. GeoCities quickly popularized and was signing thousands of “Homesteaders” per day. On May 1997, GeoCities started the allowing of advetisements and many users revolted, but since the Internet was becoming a global commodity and because GeoCities was a free service, it still remained popular.
+<mark style="color:blue;">I.III Some disadvantages of the prevalent services at the time included limited functionality, lack of integration with other platforms, and a lack of user-friendly features.</mark>
 
-However, in June 1998, GeoCities introduced watermark advertisements on every website hosted by GeoCities, which ultimately costed them many users (including myself). Watermarked advertisements when a floating image hovered on the right side of the page on every website and followed the page as you scrolled up and down. I found myself switching to TheGlobe.com to practice website design after GeoCities introduced the watermark ads.
+<mark style="color:blue;">I.IV People may have preferred using Yahoo's acquired services over the prevalent ones due to their innovative features, ease of use, and integration with other popular platforms.</mark>
 
-In August 1998, GeoCities had an IPO with a listing on NASDAQ with the code, GCTY. The initial price was $17 and rose to even $100 at one point on the first day. Four months later, Yahoo! purchased GeoCities for $3.57 billion. There was another major drop in users after Yahoo! modified the terms of service on GeoCities stating that Yahoo! would own the property placed on GeoCities pages including media such as images, but Yahoo! had quickly reversed this TOS decision after more and more people revolted.
+<mark style="color:blue;">I.V Factors that provided an advantage to Yahoo's acquired services in the market included their unique offerings, user-friendly interfaces, and the backing of a well-established company like Yahoo.</mark>
 
-And furtther more...
+<mark style="color:blue;">III.I Positive consequences of using these services for individuals, groups, and society include increased communication options, the ability to share and discover new content, and the fostering of online communities.</mark>
 
-**Summary:**
+<mark style="color:blue;">III.II Negative consequences of using these services for individuals, groups, and society may include potential privacy concerns, the spread of misinformation, and the potential for online harassment or bullying.</mark>
 
-\- Yahoo acquired companies that fill the criteria of beeing popular at this time (like Geocities) or had an innovative way of reaching the user (Net Controls Corp).
+<mark style="color:blue;">III.III The digital services acquired by Yahoo have changed how people communicate by offering new platforms and tools for sharing information, connecting with others, and expressing oneself online.</mark>
 
-\- Only a small part of the technology mad ein the final Yahoo plattform, so the technolgies of the companies were rather not used, or unnecessary bought.
+<mark style="color:blue;">IV.I User benefits of these services may include increased communication options, the ability to discover new content, and the opportunity to connect with like-minded individuals. Disadvantages may include potential privacy concerns and the risk of online harassment or bullying.</mark>
 
-_Source: s. \[InVsY.1]_ https://pulse2.com/the-current-state-of-yahoo-and-where-yahoos-acquisitions-since-1997-are-now/, _retrieved on 17.05.2023_
+**Part 2 - Subheading 16. e Groups - 30.  Stata Labs, Inc.**
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+
+<mark style="color:blue;">Yahoo! has acquired several companies and services throughout its history, including eGroups, Kimo, Sold.com.au, LAUNCH Media Inc., HotJobs, Cade, AlltheWeb, Inktomi, Overture, 3721 Internet Assistant, Kelkoo, Oddpost, The All-Seeing Eye, MusicMatch, Stata Labs, and more. These acquisitions have allowed Yahoo! to expand its offerings and reach in various markets, such as email management, search engines, online auctions, music services, job search, and gaming.</mark>
+
+<mark style="color:blue;">Some of the prevalent services at the time of Yahoo!'s acquisitions included Hotmail, AltaVista, and Google. The social environment and the need for better communication tools influenced the development of these digital services. The disadvantages of the prevalent services included limited functionality, lack of customization, and slow search capabilities. People preferred using Yahoo!'s acquired services due to their improved features, faster search capabilities, and better user experience.</mark>
+
+<mark style="color:blue;">The values and concepts of human life and society influenced the developers and the rise of their services by focusing on providing better communication tools, more efficient search engines, and improved user experience. The values and concepts from the start of development have evolved to focus on user privacy, data security, and personalized content.</mark>
+
+<mark style="color:blue;">Positive consequences of using Yahoo!'s services include better communication, more efficient search results, and access to a wide range of content. Negative consequences include potential privacy concerns and data extraction issues. The digital services have changed how people communicate by providing faster and more efficient communication tools, such as email and instant messaging.</mark>
+
+<mark style="color:blue;">Users may experience benefits such as improved communication, better search results, and access to a wide range of content. However, they may also face disadvantages such as privacy concerns and intrusive data collection. The overall perception of users towards Yahoo!'s services may vary, with some appreciating the improved features and others concerned about privacy issues. Despite potential dangers of data extraction and behavioral prediction, people may not act on these concerns due to convenience and the benefits provided by the services.</mark>
+
+**Part 3 - subheading  31. Verdisoft till end**
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Manual index search]</mark>
+
+<mark style="color:blue;">**A:**</mark>  <mark style="color:blue;"></mark><mark style="color:blue;">Yahoo has acquired several companies over the years, including VerdiSoft, Ludicorp Research (owner of Flickr), Stadeon, TeRespondo, Dialpad, Blo.gs, Konfabulator, Alibaba.com, Upcoming.org, Whereonearth, Del.icio.us, JumpCut, AdInterax, and Bix.com. These acquisitions have helped Yahoo expand its services and user base, offering a variety of communication and social media platforms.</mark>
+
+<mark style="color:blue;">I.II The social environment at the time of these acquisitions was characterized by a growing interest in online communication, social media, and digital services. This influenced the development of these services as they aimed to fulfill the needs and desires of users in this evolving digital landscape.</mark>
+
+<mark style="color:blue;">I.III Some disadvantages of the prevalent services at the time included limited functionality, lack of integration with other platforms, and a lack of user-friendly features.</mark>
+
+<mark style="color:blue;">I.IV People may have preferred using Yahoo's acquired services over the prevalent ones due to their innovative features, ease of use, and integration with other popular platforms.</mark>
+
+<mark style="color:blue;">I.V Factors that provided an advantage to Yahoo's acquired services in the market included their unique offerings, user-friendly interfaces, and the backing of a well-established company like Yahoo.</mark>
+
+<mark style="color:blue;">III.I Positive consequences of using these services for individuals, groups, and society include increased communication options, the ability to share and discover new content, and the fostering of online communities.</mark>
+
+<mark style="color:blue;">III.II Negative consequences of using these services for individuals, groups, and society may include potential privacy concerns, the spread of misinformation, and the potential for online harassment or bullying.</mark>
+
+<mark style="color:blue;">III.III The digital services acquired by Yahoo have changed how people communicate by offering new platforms and tools for sharing information, connecting with others, and expressing oneself online.</mark>
+
+<mark style="color:blue;">IV.I User benefits of these services may include increased communication options, the ability to discover new content, and the opportunity to connect with like-minded individuals. Disadvantages may include potential privacy concerns and the risk of online harassment or bullying.</mark>
 
 
+
+_<mark style="background-color:orange;">Source: s. \[InVsY.2] Source: s. \[InVsY.2] https://en.wikipedia.org/wiki/Yahoo!, retrieved on 17.05.2023</mark>_
 
 **-** In January 1994, Yang and Filo were electrical engineering graduate students at [Stanford University](https://en.wikipedia.org/wiki/Stanford\_University), when they created a website named "Jerry and David's guide to the World Wide Web".[\[9\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-9)[\[10\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-How\_Jerry-10)[\[11\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-11)[\[12\]](https://en.wikipedia.org/wiki/Yahoo!%22%20/l%20%22cite\_note-12)
 
@@ -145,7 +194,9 @@ _Source: s. \[InVsY.1]_ https://pulse2.com/the-current-state-of-yahoo-and-where-
 
 \- Yahoo grew to the most popular search engine until the year 1998
 
-_Source: s. \[InVsY.2] Source: s. \[InVsY.2] https://en.wikipedia.org/wiki/Yahoo!, retrieved on 17.05.2023_
+
+
+
 
 **-** October 10, 1996 -- Yahoo!, the world's most popular online guide to the Internet, today launches Yahoo! Germany, a localized German version in the local language
 

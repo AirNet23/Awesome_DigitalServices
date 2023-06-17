@@ -84,7 +84,7 @@ Each section contains multiple exerpts from sources. Each exerpt consist of high
 
 
 
-Update 16.06: Due to a lack of time I decided to just take the searching and prefiltering relevant texts and let the LLM GPT-4 do the summariation. For that reaoson I wrote the following prompt based on the questions from chapter 1.
+Update 16.06: Due to a lack of time I decided to just take the searching and pre-filtering relevant texts and let the LLM GPT-4 do the summariation. For that reason I wrote the following prompt based on the questions from chapter 1.
 
 The following questions are a template for a detailed mid length summary of the given text:
 
@@ -132,8 +132,8 @@ The following questions are a template for a detailed mid length summary of the 
 
 <mark style="color:blue;">IV.III If the service collects user data intrusively: Why people don't act on the dangers of data extraction and behavioral prediction ?</mark>
 
-<mark style="color:blue;">Service: \[Servicename to focus on]</mark>
+<mark style="color:blue;">Service of interest: \[service name to focus on]</mark>
 
-<mark style="color:blue;">Answer the questions using ONLY the texts information about the service. Follow the extra instructions for each question in round bracets. Always give atleast one reason per aspect of your  answer. For each question form one ore more sense sections. SKIP questions, where there is no information in the text. KEEP THE ORDER of the questions if possible. WRITE DOWN the number of the question that got answered. AVOID general terms for an explanation, use examples if given. DON'T mix sense sections referring to different questions. DON'T provide information that is not in the text.</mark>
+<mark style="color:blue;">Write a summary regarding to the questions. Follow the extra instructions for each question in round braces. Use only information from the text regarding to the service of interest. Reference to the question in the answer. Provide a at least one reason for each aspect of the answer. AVOID general terms for an answer, use examples if given. DON'T provide information that are not in the text. If there is no information in the text SKIP the question.</mark>
 
 **I will publish results soon.**
