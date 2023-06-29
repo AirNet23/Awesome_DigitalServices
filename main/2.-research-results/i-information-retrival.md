@@ -8,7 +8,9 @@ Also see:&#x20;
 
 {% embed url="https://www.hpe.com/us/en/insights/articles/how-search-worked-before-google-1703.html" %}
 
-**I.I Manual index web search (< 1993\[1])**&#x20;
+## **I.I Newspaper (1650\[1])**&#x20;
+
+## **I.II Manual index web search (< 1993\[1])**&#x20;
 
 _<mark style="background-color:orange;">Source: s. \[MindS.I] https://www.quora.com/How-did-people-search-on-the-web-before-search-engines-were-created, Answer of Tom Peracchio, Matthew Petach, Richard Conto, Stan Hanks , retrieved on 17.05.2023</mark>_
 
@@ -94,7 +96,7 @@ _Note: Maybe revisit the source on Google. They had detailed information about c
 
 
 
-**I.II Yahoo (1994)**&#x20;
+## **I.III Yahoo (1994)**&#x20;
 
 _<mark style="background-color:orange;">Source: s. \[Yahoo.I]</mark>_ <mark style="background-color:orange;"></mark><mark style="background-color:orange;">https://pulse2.com/the-current-state-of-yahoo-and-where-yahoos-acquisitions-since-1997-are-now/,</mark> <mark style="background-color:orange;"></mark>_<mark style="background-color:orange;">retrieved on 17.05.2023</mark>_
 
@@ -178,9 +180,9 @@ _\[GPT.Yahoo.II], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
 
 
 
-_<mark style="background-color:orange;">Source: s. \[IYahoo.III] https://web.archive.org/web/20080331063248/http://yhoo.client.shareholder.com/press/ReleaseDetail.cfm?ReleaseID=173399, retrieved on 17.05.2023</mark>_
+_<mark style="background-color:orange;">Source: s. \[Yahoo.III] https://web.archive.org/web/20080331063248/http://yhoo.client.shareholder.com/press/ReleaseDetail.cfm?ReleaseID=173399, retrieved on 17.05.2023</mark>_
 
-_\[Yahoo.III], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
+_\[GPT.Yahoo.III], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 <mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research query documented in chapter 3., Text: part of source, Service: Yahoo]</mark>
 
@@ -192,9 +194,9 @@ _\[Yahoo.III], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 
 
-_<mark style="background-color:orange;">Source: s. \[IYahoo.IV] https://searchengineland.com/yahoo-directory-close-204370, retrieved on 17.05.2023</mark>_
+_<mark style="background-color:orange;">Source: s. \[Yahoo.IV] https://searchengineland.com/yahoo-directory-close-204370, retrieved on 17.05.2023</mark>_
 
-_\[Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
+_\[GPT.Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 ![](<../../.gitbook/assets/0 (1).png>)
 
@@ -204,41 +206,31 @@ _\[Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023_
 
 
 
-Relevanz: _„As of Jan. 2020, Google owned 87.4% of the global market share of search engines“_
-
-\- Google veröffentlicht Prototypen eines Produktes und überarbeitet es durch den Einsatz der gewonnen Daten kontinuierlich. Nach dem Start wurden die Suchalgorithmen kontinuierlich verbessert und zog so mehr Leute an.
-
-\- Googles erstes Geschäftsmodell war eine Suchmaschine, die Menschen half über Algorithmen die Übersicht über eine riesige Menge an Daten zu erhalten und genaue Suchergebnisse lieferte.
-
-Früher mussten sich Menschen mit dem Sortieren der Informationen beschäftigen. Googles Algorithmen bewerten den Inhalt zu einem Suchwort automatisch.
-
-Dabei wurden zunächst neue Techniken, wie eingehende Links, als Vertrauensmechanismus, Suchworthäufigkeit und Seitentitel einbezogen.
-
-_„Using this scoring approach, Google was able to serve up more accurate results than many of the_ [_existing search engines_](https://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp) _that preceded it in the market.“_
-
-\- Google konnte durch einen wirtschaftlichen Aufschwung und großer Vertrauen in die Techszene in den 2000er Jahren als Startup schnell Investorengeld einwerben (Dotcom Blase).
-
-Nach dem Ende der Blase wurde von Investoren als garant für ihre Investion ein profitables Geschäftsmodell erwartet. Google entwickelte ein Geschäftsmodell auf der Basis der Online-Plattform Adwords. Durch Adwords führt Google Werbetreibende und Nutzer zusammen. Das Unternehmen kann pro Klick verdienen.
-
-Google erschuf eine Plattform, die relevante Anzeigen für Werbetreibende anbietet.
-
-Adword / Adsense generiert heute automatische Einnahmen für das Unternehmen
-
-\- Das Unternehmen besitzt weitere attraktive Dienste wie YouTube, Maps, Google Apps und Google Cloud. Die Plattformen erreichen größe Nutzergruppen und bieten mehr digitalen Werbeplatz. Auch diese Dienste starteten oft kostenlos und wurden dann iterativ verbessert, sowie durch Werbung monetarisiert.
-
-**Fazit:** Google hat zwei Kernkomponenten. Die eine ist eine Suchmaschine, die von den meisten Menschen auf der Welt bevorzugt wird (Google Suchpage). Die zweite ist ein Selbstbedienungs-Werbenetzwerk, das Einnahmen aus dieser Suchmaschine und den vielen digitalen Assets generiert, die Google besitzt. (AdSense). Mittlerweile erstrecken sich die Dienstleistungen auf Webseiteanalyse (Google Analytics), Navigation (Maps), ein Betriebssystem (Android) welches den Browser (Chrome) mit google als standardsuchmaschine installiert hat, ein Anruf, Kalender, Mail, Office, Cloud-Speicher und AR-Dienst. Kürzlich versuchte es Google auch mit Gaming.
-
-Die Menschen setzen Google ein, um den Zugang zu der massiven Menge an Informationen im Internet zu erhalten und daraus die relevanten auszuwählen. Google übernimmt die Katalogisierung (Crawling), die Auswahl der relevanten Informationen im Kontext einer Suchanfrage (Relevanzabschätzung ?) und die Bereitstellung der Information über die Auslieferung von URLs oder generierten Texten (ab 2021 ?). Dadurch bietet Google als „Interface“ zum Internet den Nutzer einen großen Mehrwert in Form von Zeit und niedrigerem „Mental Load“.
-
-_Source: Gedankenprotokoll_
-
-**Fazit:** Google hat einen Wettbewerbsvorteil, da es möglichst relevante Ergebnisse liefert. Mittlerweile wird die Relevanz durch Algorithmen bestimmt, die basierend auch vorherige Suchergebnisse und einem Nutzerprofil (Siehe Werbe-ID oder Google-Account) die relevantesten Seiten als erstes im Suchfeld anzeigen. Google gewinnt dafür die Daten aus der Interaktion seiner Nutzer mit den diversen Google-Diensten. Zusätzlich binden viele Webentwickler freiwillig das Skript „Google Analytics“ ein, welches Google Webseite übergreifendes Tracking ermöglicht.
-
-Die s. „Dead Internet Theory“ gehen davon aus, dass sich die Seiten aktiver Webseiten durch Google drastisch reduziert haben.
-
-Enrico Tarttori stellt in seinem Video von YouTube „What happened to Google search ?“ fest, dass sich eine fast ausschließliche kommerzielle Platzierung der von google vorgeschlagenen relevantesten Suchergebnisse auf der 1. Seite ergibt.
+## **I.IV Google (1998)**
 
 _Source: s. \[G.1]_ [_https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp_](https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp)_, retrieved on 15.01.2023_
+
+_\[GPT.Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 29.06.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.1 ,documented in chapter 3. , Text: part of source, Service: Yahoo]</mark>
+
+**Part 1 - from start to subheading till subheading Becoming a Digital Powerhouse**
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">I.I: N/A I.II: Google's original business focused on creating algorithms to help people sort quickly through the rapidly growing amount of content being put online. I.III: N/A I.IV: Google was able to serve up more accurate results than many of the existing search engines that preceded it in the market due to its scoring approach and constantly tweaked and updated algorithm. I.V: Google's method of prototyping and improving its products, starting with its search algorithm, contributed to its growth in the market. I.VI: N/A I.VII: N/A II.I: N/A II.II: N/A III.I: N/A III.II: N/A III.III: N/A IV.I: N/A IV.II: N/A IV.III: N/A</mark>
+
+<mark style="color:blue;">Google's success can be attributed to its original focus on creating algorithms that helped users sort through the rapidly growing amount of online content (I.II). Its scoring approach and constantly updated algorithm allowed it to provide more accurate search results than its competitors (I.IV). Google's method of prototyping and improving its products, starting with its search algorithm, contributed to its growth in the market (I.V).</mark>
+
+**Part 2 from subheading digital powerhouse to end**
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">I.I: Google Search (1998), Google Blogger (2003), Gmail (2004), Google Maps (2005), Google Finance (2006), YouTube (acquired 2006) I.IV: People prefer using Google services due to their constant improvement and innovation (e.g., autocomplete and instant results in Google Search, accurate pinpointing in Google Maps) I.V: Google's ad revenue allows them to invest in rapid prototyping of new ideas, which often grow into new sources of revenue I.VI: Google's failures include Google Video (washed away with the acquisition of YouTube) and Google+ (slowly phased out) II.I: Google's company culture is focused on innovating first, getting real user data second, and worrying about monetizing afterward III.I: Positive consequences include improved search capabilities, better mapping services, and access to a wide range of digital assets III.II: Negative consequences are not explicitly mentioned in the text III.III: The text does not specifically address how Google changed communication, but it does mention the improvement of search and mapping services IV.I: User benefits include improved search capabilities, better mapping services, and access to a wide range of digital assets; disadvantages are not explicitly mentioned in the text IV.II: The overall perception of Google services is positive, as they are preferred by most people in the world IV.III: The text does not discuss data extraction and behavioral prediction</mark>
+
+<mark style="color:blue;">Summary: Google has become a digital powerhouse by constantly improving and innovating its services, such as Google Search, Google Maps, and YouTube (I.I, I.IV). The company's ad revenue allows them to invest in rapid prototyping of new ideas, which often grow into new sources of revenue (I.V).</mark> <mark style="color:blue;">Google's company culture is focused on innovating first, getting real user data second, and worrying about monetizing afterward (II.I). Users benefit from improved search capabilities, better mapping services, and access to a wide range of digital assets (IV.I). The overall perception of Google services is positive, as they are preferred by most people in the world (IV.II).</mark>
+
+
+
+
+
+
 
 Kontext der Zitate: Yahoo war voller Links und Bilder und lädt langsam mit 16kb Leitung. Google war leichtgewichtig designt
 
@@ -252,7 +244,7 @@ _„_No wonder this really made all of those early internet users switch to Goog
 
 _Source: s. \[G.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_](https://www.quora.com/How-did-Google-become-a-big-company)_, retrieved on 15.01.2023_
 
-**I.III Google (1998) vs. MSN Search (1999)**
+## **I.V MSN Search (1998)**
 
 **Context:** In the 90's the big companies AOL, Microsoft and Yahoo competed for market share on 'web portals'. These were news sites often integrated as landing page in their browsers of provided as first redirection of internet providers. They offered a wide range of information to different kind of topics (Sports, TV etc.) and were used as a central spot to publish new digital services to the user. All of them provided human curated content and cooperated with other companies to provide more content. Microsoft made the decision to extend its web portal MSN with a search engine.
 
@@ -263,17 +255,13 @@ _Source: s. \[G.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_
 **Conclusion:**&#x20;
 
 * To open up to the new search market microsoft integrated products of other comapnies in it already prelevant web portal (provied by internet explorer) #
-* ...
-
-
+* ...()
 
 _Source: s. \[GvsMSN.1]_ [_https://en.wikipedia.org/wiki/Microsoft\_Bing#MSN\_Search_](https://en.wikipedia.org/wiki/Microsoft\_Bing#MSN\_Search)_, retrieved on 11.06.2023_
 
 
 
-
-
-**I.IV Zeitungen (1650\[1]) vs. Google News (2002)**
+## **I.VI Google News (2002)**
 
 \- This article tells the story of advertising revenues at the rise of internet
 
@@ -597,11 +585,11 @@ _**-**_ Der Autor argumentiert, dass eine Studie die die Werbeinnahmen auf 4,7 M
 
 _Quelle: \[NWP.5] s._ [_https://www.niemanlab.org/2019/06/that-4-7-billion-number-for-how-much-money-google-makes-off-the-news-industry-its-imaginary/_](https://www.niemanlab.org/2019/06/that-4-7-billion-number-for-how-much-money-google-makes-off-the-news-industry-its-imaginary/)
 
-**I.V Google (1998) vs. Reddit (2005)**
+## **I.VII  Reddit (2005)**
 
 **...**
 
-**I.VI Google (1998) vs. ChatGpt (2022)**
+## **I.VIII ChatGpt (2022)**
 
 **...**
 

@@ -4,19 +4,27 @@ For the research I decided to do a comparision between similar (digital) service
 
 By ordering the services by their dominant function I created a structure. Platforms that are now offline are marked with a cross † and were not considered for further comparision.
 
+
+
 **I Information retrival**
 
-I.I Indexsuche vs. Yahoo
+I.I Newspaper
 
-I.II Yahoo vs. Google
+I.II Manual Index web search
 
-I.III Google vs. MSN Search
+I.III Yahoo
 
-I.IV Zeitungen vs. Google News
+I.IV Google&#x20;
 
-I.V Google vs. Reddit
+I.V MSN Search
 
-I.VI Google vs. ChatGpt
+I.VI Google News
+
+I.VII Reddit
+
+I.VIIII ChatGpt
+
+
 
 **II Chatting**
 
@@ -34,6 +42,8 @@ II.VI Whatsapp vs. Telegram
 
 II.VII Telegram vs. Signal
 
+
+
 **III Media Sharing**
 
 III.I WinAmp vs. Napster
@@ -46,6 +56,8 @@ III.IV WinAmp vs. YouTube
 
 III.V YouTube vs. Twitch
 
+
+
 **IV Shopping**
 
 IV.I Kleine Online Shops vs. Amazon
@@ -57,6 +69,8 @@ IV.II Amazon vs. Ebay
 V.I Zeitung vs. Lovoo
 
 V.II Lovoo vs. Tinder
+
+
 
 **VI Social Networks**
 
@@ -86,7 +100,11 @@ Each section contains multiple exerpts from sources. Each exerpt consist of high
 
 Update 16.06: Due to a lack of time I decided to just take the searching and pre-filtering relevant texts and let the LLM GPT-4 do the summariation. For that reason I wrote the following prompt based on the questions from chapter 1.
 
-The following questions are a template for a detailed mid length summary of the given text:
+
+
+**Research prompt**
+
+The following prompt is a template for a detailed mid length summary of the given text. Placeholder are marked with \[ ] and need to replaced by the researcher.
 
 <mark style="color:blue;">**Q:**</mark>&#x20;
 
@@ -134,6 +152,14 @@ The following questions are a template for a detailed mid length summary of the 
 
 <mark style="color:blue;">Service of interest: \[service name to focus on]</mark>
 
-<mark style="color:blue;">Write a summary regarding to the questions. Follow the extra instructions for each question in round braces. Use only information from the text regarding to the service of interest. Reference to the question in the answer. Provide a at least one reason for each aspect of the answer. AVOID general terms for an answer, use examples if given. DON'T provide information that are not in the text. If there is no information in the text SKIP the question.</mark>
+<mark style="color:blue;">Task: Write a summary regarding to the questions. Follow the extra instructions for each question in round braces. Use only information from the text regarding to the service of interest. Reference to the question in the answer. Provide a at least one reason for each aspect of the answer. AVOID general terms for an answer, use examples if given. DON'T provide information that are not in the text. If there is no information in the text SKIP the question.</mark>
+
+Update 29.06.2023:&#x20;
+
+I rewrote the Task part and the LLM managed to deliver high quality explanations while summing up. Replace it with the previous text after Task:
+
+<mark style="color:blue;">**Task Block V. 1.1**</mark>
+
+<mark style="color:blue;">Task: First WRITE down the numbers of each question the text provides more information to. Second WRITE a summary USING the text to ANSWERING these questions. FOLLOW the instructions for each question in round braces. REFERENCE TO to the question number after each section. REASON each aspect of the answer. BREAK DOWN general terms included in an answer by using examples.</mark>
 
 **I will publish results soon.**

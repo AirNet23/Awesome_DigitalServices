@@ -33,7 +33,8 @@
 * [II. Some funny conversation with gpt-4](appendix/ii.-some-funny-conversation-with-gpt-4.md)
 * [III. Test of providing sources via LLM](appendix/iii.-test-of-providing-sources-via-llm.md)
 * [IV. Digital service comparision - Removed LLM generated text](appendix/iv.-digital-service-comparision-removed-llm-generated-text.md)
-* [V Definitions](appendix/v-definitions.md)
+* [V. Digital service comparison - Removed self written summaries](appendix/v.-digital-service-comparison-removed-self-written-summaries.md)
+* [VI. Definitions](appendix/vi.-definitions.md)
 
 ## Experiments / Drafts
 
