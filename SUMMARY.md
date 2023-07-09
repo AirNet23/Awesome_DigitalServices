@@ -39,6 +39,7 @@
 ## Experiments / Drafts
 
 * [Social Media metrics](experiments-drafts/social-media-metrics/README.md)
+  * [Content type](experiments-drafts/social-media-metrics/content-type.md)
   * [Producer-Consumer rate](experiments-drafts/social-media-metrics/producer-consumer-rate.md)
 * [Cultural aspects](experiments-drafts/cultural-aspects.md)
 * [Overview system theories](experiments-drafts/overview-system-theories/README.md)
