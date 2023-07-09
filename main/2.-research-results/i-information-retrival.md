@@ -208,11 +208,11 @@ _\[GPT.Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
 
 ## **I.IV Google (1998)**
 
-_Source: s. \[G.1]_ [_https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp_](https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp)_, retrieved on 15.01.2023_
+_Source: s. \[Google.1]_ [_https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp_](https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp)_, retrieved on 15.01.2023_
 
-_\[GPT.Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 29.06.2023_
+_\[GPT.Google.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 29.06.2023_
 
-<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.1 ,documented in chapter 3. , Text: part of source, Service: Yahoo]</mark>
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.1 ,documented in chapter 3. , Text: part of source, Service: Google search]</mark>
 
 **Part 1 - from start to subheading till subheading Becoming a Digital Powerhouse**
 
@@ -228,21 +228,57 @@ _\[GPT.Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 29.06.2023
 
 
 
+_Source: s. \[Google.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_](https://www.quora.com/How-did-Google-become-a-big-company)_, retrieved on 09.07.2023_
+
+_\[GPT.Google.II], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: answer of Mano Vikram, Service: Google Search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Summary: The text provides a detailed history of Google's development and growth. It explains that Google was born during the dot-com bubble, a time when having a business and a website could potentially make one a millionaire. This environment likely influenced the development of Google as a search engine, as there was a need for a tool to organize and rank the rapidly growing number of web pages (I.II). The text also mentions several factors that provided an advantage for Google to grow in the market. These include the dot-com crash, which made real estate cheaper and opened up a pool of talented individuals who had lost their jobs; the introduction of keyword ads, which provided a revenue stream; and the expansion into other markets, such as email services, which increased user engagement (I.V). However, the text does not provide answers to many of the questions, including those about the disadvantages of prevalent services, why people prefer using Google over these services, and how Google changed how people communicate.</mark>
 
 
 
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: How did Google rise to power so quickly - answer of Peter White, Service: Google Search]</mark>
 
-Kontext der Zitate: Yahoo war voller Links und Bilder und lädt langsam mit 16kb Leitung. Google war leichtgewichtig designt
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The standard answer is better algorithms for search results. I am not going to claim that is wrong. But I do wonder if it really was the most important reason. I am going to offer a different answer: Marissa Mayers demanding a clean and simple front page for Google.</mark>
 
-_„In a nutshell, Google is successful because it creates products that solve problems and create tremendous value for its users._
+<mark style="color:blue;">Back in the late 90s, 28 kbaud modems were the norm. 56kbaud modems were coming out, so if you were a techie, yes, you definitely bought one of them. But the “typical” person with a computer still had a 28 or even a 14 kbaud modem.</mark>
 
-Products that deliver a great user experience and improve people's lives tend to become habit forming. As a result, Google has become the first choice for for hundreds of millions (even billions for some products) for search, email, maps and many other services that people use daily.From a business perspective, Google has been enormously successful because of its ability to monetize search through AdWords. This has made it possible for Google to create many more successful products and services._“_
+<mark style="color:blue;">In the late 90s I found myself in a cash crunch due personal life changes I will not go into. So I gratefully accepted an older hand me down computer with a 14 kbaud modem from a relative. I was also someone who was used to using Yahoo. Guess what it was like trying to look up a movie showing on Yahoo? Torture! It literally took 2–3 minutes to load up the Yahoo front page, so I could even click on something that would take me to the movie listing page.</mark>
 
-_„_No wonder this really made all of those early internet users switch to Google forgetting everything else. So If you ask me what's the single reason behind Google's success - its SIMPLICITY_**“**_
+<mark style="color:blue;">The CEO of Yahoo was very consciously grooming the Yahoo front page as the be all and end all of content portals for the new era. It is said he was literally reviewing the page every morning to see that lots of wonderful stuff was efficiently packed onto the front page. He had his top designers squeezing as much content (and performance sucking ads) as possible on that front page.</mark>
 
-**Fazit:** Google war den Konkurrenten zu seiner Zeit auch technisch überlegen, unter damaligen Voraussetzungen bot es geringere Ladezeiten und ein leichter verständliches UserInterface. Google schaffte es nur das nötigste für seine Aufgabe dem Nutzer anzubieten, die Aufgabe aber außergewöhnlich gut zu erfüllen.
+<mark style="color:blue;">If you were someone with a new computer and a high speed connection, which would be 99% of the tech workers in Silicon Valley and many young engineering students at university, the Yahoo page loaded up just fine. So you might choose between Yahoo and Google based on quality of results.</mark>
 
-_Source: s. \[G.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_](https://www.quora.com/How-did-Google-become-a-big-company)_, retrieved on 15.01.2023_
+<mark style="color:blue;">But “typical” people may have had an experience more similar to mine. And now to Marissa Mayer’s contribution… The very lean looking Google front page loaded instantly, and the follow up page of links was fast, too. Thus I could get an answer to a simple question like what is the showing times of that movie in <1 minute. In contrast, it took 3–5 minutes to accomplish the same on Yahoo.</mark>
+
+<mark style="color:blue;">Did Google rise so quickly because of better results? Or because of a better experience in the specific context of its critical early years? I suspect the standard explanation is not the full truth.</mark>
+
+
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text:</mark> [Is Google the most powerful company in the history of mankind?](https://www.quora.com/Is-Google-the-most-powerful-company-in-the-history-of-mankind)<mark style="color:blue;">- answer of Joe Darui, Service: Google Search]</mark>
+
+<mark style="color:blue;">**A: \[Text does not provide information]**</mark>
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Answer regarding to the connection between the tulp bubble an the dotcom bubble and explain exactly ho an economic bubble can raise a multi national company.</mark>
+
+<mark style="color:blue;">A: The text draws a parallel between the tulip bubble in the 17th century and the dotcom bubble in the late 20th century. Both were periods of intense speculation and inflated prices, which eventually led to a crash.</mark>
+
+<mark style="color:blue;">An economic bubble occurs when the price of an asset, such as tulip bulbs or internet stocks, rises far above its intrinsic value. This is often driven by speculation, where investors buy the asset with the hope of selling it at a higher price in the future.</mark>
+
+<mark style="color:blue;">In the case of the Dutch East India Company, the tulip bubble allowed it to grow tremendously. The company was involved in the trade of tulip bulbs, which had become a highly sought-after commodity. As the prices of tulip bulbs soared, so did the company's profits and value.</mark>
+
+<mark style="color:blue;">Similarly, during the dotcom bubble, many internet companies saw their stock prices skyrocket due to speculation about the potential of the internet. Some companies were able to leverage this inflated market value to grow their operations, acquire other businesses, and establish a dominant market position.</mark>
+
+<mark style="color:blue;">However, it's important to note that while an economic bubble can provide a temporary boost to a company's value, it also carries significant risks. When the bubble bursts, the company's value can plummet as quickly as it rose. This is what happened to the Dutch East India Company when the tulip bubble burst in 1637, and to many internet companies when the dotcom bubble burst in the early 2000s.</mark>
+
+<mark style="color:blue;">In conclusion, while an economic bubble can help a multinational company grow in the short term, it also exposes the company to significant financial risk in the long term.</mark>
+
+
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: Is Google the most powerful company in the world - answer by Joe Phileo, Service: Google Search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(...) The text discusses the concept of power and how it applies to Google. It suggests that Google's power comes from its intelligent employees, unique data, computing power, AI capabilities, wealth, and complex organization (I.V). The author argues that Google's unique data gives it insights into people's behaviors and preferences, which could potentially be used for various purposes, such as influencing legislation. The text also mentions Google's AI capabilities, specifically its acquisition of DeepMind, and suggests that Google could be the company to create a powerful AI. (...)</mark>
 
 ## **I.V MSN Search (1998)**
 

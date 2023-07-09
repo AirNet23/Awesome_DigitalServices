@@ -40,8 +40,6 @@ Die Menschen setzen Google ein, um den Zugang zu der massiven Menge an Informati
 
 
 
-
-
 _Source: s. \[G.1]_ [_https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp_](https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp)_, retrieved on 15.01.2023_
 
 **Fazit:** Google hat einen Wettbewerbsvorteil, da es möglichst relevante Ergebnisse liefert. Mittlerweile wird die Relevanz durch Algorithmen bestimmt, die basierend auch vorherige Suchergebnisse und einem Nutzerprofil (Siehe Werbe-ID oder Google-Account) die relevantesten Seiten als erstes im Suchfeld anzeigen. Google gewinnt dafür die Daten aus der Interaktion seiner Nutzer mit den diversen Google-Diensten. Zusätzlich binden viele Webentwickler freiwillig das Skript „Google Analytics“ ein, welches Google Webseite übergreifendes Tracking ermöglicht.
@@ -49,4 +47,18 @@ _Source: s. \[G.1]_ [_https://www.investopedia.com/articles/personal-finance/042
 Die s. „Dead Internet Theory“ gehen davon aus, dass sich die Seiten aktiver Webseiten durch Google drastisch reduziert haben.
 
 Enrico Tarttori stellt in seinem Video von YouTube „What happened to Google search ?“ fest, dass sich eine fast ausschließliche kommerzielle Platzierung der von google vorgeschlagenen relevantesten Suchergebnisse auf der 1. Seite ergibt.
+
+
+
+_Source: s. \[G.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_](https://www.quora.com/How-did-Google-become-a-big-company)_, retrieved on 15.01.2023_
+
+Kontext der Zitate: Yahoo war voller Links und Bilder und lädt langsam mit 16kb Leitung. Google war leichtgewichtig designt
+
+_„In a nutshell, Google is successful because it creates products that solve problems and create tremendous value for its users._
+
+Products that deliver a great user experience and improve people's lives tend to become habit forming. As a result, Google has become the first choice for for hundreds of millions (even billions for some products) for search, email, maps and many other services that people use daily.From a business perspective, Google has been enormously successful because of its ability to monetize search through AdWords. This has made it possible for Google to create many more successful products and services._“_
+
+_„_No wonder this really made all of those early internet users switch to Google forgetting everything else. So If you ask me what's the single reason behind Google's success - its SIMPLICITY_**“**_
+
+**Fazit:** Google war den Konkurrenten zu seiner Zeit auch technisch überlegen, unter damaligen Voraussetzungen bot es geringere Ladezeiten und ein leichter verständliches UserInterface. Google schaffte es nur das nötigste für seine Aufgabe dem Nutzer anzubieten, die Aufgabe aber außergewöhnlich gut zu erfüllen.
 
