@@ -192,3 +192,11 @@ Popular attention in the early stage of propagation results in large-scale cover
 
 Source \[elicit.3],elicit(), valid till: 22.05.2023, 22.05.2023
 
+
+
+
+
+## Own research
+
+### What Google Knows: Privacy and Internet Search Engine
+
