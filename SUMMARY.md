@@ -63,7 +63,7 @@
 * [Content algorithms of popular networks](experiments-drafts/content-algorithms-of-popular-networks/README.md)
   * [Twitter](experiments-drafts/content-algorithms-of-popular-networks/twitter.md)
   * [Instagram](experiments-drafts/content-algorithms-of-popular-networks/instagram.md)
-* [Educational material](further-readings/educational-material/README.md)
+* [Educational material](further-readings/educational-material.md)
   * [Book "Data Cartels" by Sarah Lamdan](further-readings/educational-material/book-data-cartels-by-sarah-lamdan.md)
 * [Big Privacy violation scandals](experiments-drafts/big-privacy-violation-scandals/README.md)
   * [NSA Mass Surveillance Scandal](experiments-drafts/big-privacy-violation-scandals/nsa-mass-surveillance-scandal.md)

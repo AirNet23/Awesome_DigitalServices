@@ -208,7 +208,7 @@ _\[GPT.Yahoo.IV], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 17.06.2023
 
 ## **I.IV Google (1998)**
 
-_Source: s. \[Google.1]_ [_https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp_](https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp)_, retrieved on 15.01.2023_
+_Source: s. \[Google.I]_ [_https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp_](https://www.investopedia.com/articles/personal-finance/042415/story-behind-googles-success.asp)_, retrieved on 15.01.2023_
 
 _\[GPT.Google.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 29.06.2023_
 
@@ -228,7 +228,7 @@ _\[GPT.Google.I], gpt-4-0314(temp = 0,top\_p=1), valid till: 09.2021, 29.06.2023
 
 
 
-_Source: s. \[Google.2]_ [_https://www.quora.com/How-did-Google-become-a-big-company_](https://www.quora.com/How-did-Google-become-a-big-company)_, retrieved on 09.07.2023_
+_Source: s. \[Google.II]_ [_https://www.quora.com/How-did-Google-become-a-big-company_](https://www.quora.com/How-did-Google-become-a-big-company)_, retrieved on 09.07.2023_
 
 _\[GPT.Google.II], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
 
@@ -279,6 +279,157 @@ _\[GPT.Google.II], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.202
 <mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: Is Google the most powerful company in the world - answer by Joe Phileo, Service: Google Search]</mark>
 
 <mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(...) The text discusses the concept of power and how it applies to Google. It suggests that Google's power comes from its intelligent employees, unique data, computing power, AI capabilities, wealth, and complex organization (I.V). The author argues that Google's unique data gives it insights into people's behaviors and preferences, which could potentially be used for various purposes, such as influencing legislation. The text also mentions Google's AI capabilities, specifically its acquisition of DeepMind, and suggests that Google could be the company to create a powerful AI. (...)</mark>
+
+
+
+_Source: s. \[Google.III]_ [_,_](https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/)[_https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/_](https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/)_, retrieved on 09.07.2023_
+
+_\[GPT.Google.III], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source till subheading As long as big company like google .(...), Service: Google Search]</mark>
+
+<mark style="color:blue;">**A:**</mark>
+
+<mark style="color:blue;">IV.I: The text discusses the benefits and drawbacks of Google's data collection practices. On one hand, Google's extensive data collection allows it to provide highly personalized services, such as accurate photo identification and location tracking. On the other hand, the extent of Google's data collection can be seen as intrusive and potentially creepy.</mark>
+
+<mark style="color:blue;">IV.II: The text suggests that the author views Google's data collection practices with a degree of ambivalence. While recognizing the benefits of personalized services, the author also acknowledges the potential for misuse of personal data.</mark>
+
+<mark style="color:blue;">IV.III: The text suggests that people may not act on the dangers of data extraction and behavioral prediction because they either do not fully understand the extent of data collection, or they value the convenience and personalization of services over potential privacy concerns.</mark>
+
+<mark style="color:blue;">In summary, the text discusses the benefits and drawbacks of Google's data collection practices. While these practices allow Google to provide highly personalized services, they can also be seen as intrusive and potentially creepy. The author suggests that people may not act on the dangers of data extraction and behavioral prediction because they either do not fully understand the extent of data collection, or they value the convenience and personalization of services over potential privacy concerns (IV.I, IV.II, IV.III).</mark>
+
+
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: Source - from subheading As long as big company like google .(...) till end, Service: Google Search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The text does not provide specific answers to the questions listed. It discusses the potential invasion of privacy by tech companies like Google and Facebook, but does not delve into the history, development, or societal impact of these services in a way that would answer the questions provided.</mark>
+
+<mark style="color:blue;">The text does touch on the potential negative consequences of using these services (III.II), such as the invasion of privacy and the potential for personal information to be shared with third parties or used inappropriately. It also discusses the potential for these companies to lose control of user data through hacking (IV.I). However, the text does not provide specific examples or categorize these consequences.</mark>
+
+<mark style="color:blue;">The text also briefly mentions the benefits of these services, such as the rich services that become available as companies analyze user data (III.I), but again does not provide specific examples or categorize these benefits.</mark>
+
+<mark style="color:blue;">The text suggests that legislation is needed to protect user privacy and that companies should have clearly defined limits on what they can do with user information (IV.III). However, it does not delve into why people might not act on the dangers of data extraction and behavioral prediction.</mark>
+
+Addition: The text mentions that it was merely a standard practise of facebook to give away user data to researchers in context of the Cambridge analytica scandal.&#x20;
+
+
+
+_Source: s. \[Google.IV]_ [_,_](https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/)[_https://www.komando.com/security-privacy/ways-google-invades-your-privacy/804545/_](https://www.komando.com/security-privacy/ways-google-invades-your-privacy/804545/)_, retrieved on 15.01.2023_
+
+_\[GPT.Google.IV], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source , Service: Google]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">IV.I: The text highlights several disadvantages of using Google's services. These include the invasion of privacy through the scanning of emails, tracking of location history, recording of search history even in incognito mode, tracking of user preferences for ad personalization, listening to private conversations through Google Assistant, scanning of Google Docs, tracking of YouTube history, and extraction of metadata from photos. The text also provides steps to mitigate some of these privacy concerns, such as turning off Smart Compose in Gmail, disabling location history in Google Maps, and turning off Google Assistant. However, the text does not mention any benefits of using Google's services. (IV.I)</mark>
+
+<mark style="color:blue;">Summary: The text discusses the various ways in which Google invades user privacy. This includes scanning emails, tracking location history, recording search history even in incognito mode, tracking user preferences for ad personalization, listening to private conversations through Google Assistant, scanning Google Docs, tracking YouTube history, and extracting metadata from photos. The text also provides steps to mitigate some of these privacy concerns. However, it does not mention any benefits of using Google's services. (IV.I)</mark>
+
+
+
+_Source: s. \[Google.V] ,_[_https://en.wikipedia.org/wiki/Privacy\_concerns\_regarding\_Googl_](https://en.wikipedia.org/wiki/Privacy\_concerns\_regarding\_Google#Scroogle)_e, retrieved on 15.01.2023_
+
+_\[GPT.Google.V], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source from subheading 'Potential for data disclosure' till subheading 'YouTube' , Service: Google Search]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(...)</mark>
+
+<mark style="color:blue;">III.II: The text outlines several negative consequences for individuals and society as a result of using Google's services. These include potential data leaks, as seen in the 2009 Google Docs bug that allowed unintended access to some private documents (III.II). Google's use of cookies to track a person's web browsing and search history, which can be seen as an invasion of privacy, is another negative consequence (III.II). The company's ties with the CIA and NSA have also raised privacy concerns (III.II). Google's Street View service has been criticized for retrieving emails and other personal data, as well as for taking pictures and viewing too far into people's private homes (III.II). The company's collection of data from unencrypted public and private Wi-Fi networks through its Streetview camera cars from 2006 to 2010 is another example of a negative consequence (III.II).</mark>
+
+<mark style="color:blue;">In summary, the text highlights several privacy concerns related to Google's services, including potential data leaks, tracking of web browsing and search history, ties with government agencies, and collection of data from Wi-Fi networks. These issues can have negative consequences for individuals and society, such as invasion of privacy and potential misuse of personal data (III.II).</mark>
+
+
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source from subheading  'YouTube' till end, Service: Google ]</mark>
+
+<mark style="color:blue;">**A:**</mark>&#x20;
+
+<mark style="color:blue;">Summary:</mark>
+
+<mark style="color:blue;">III.II - The text highlights several negative consequences of using Google's services, particularly in relation to privacy and data protection. For individuals, the use of real names online can disadvantage or endanger some individuals, such as victims of violence or harassment. The policy prevents users from protecting themselves by hiding their identity. For example, a person who reports a human rights violation or crime and posts it on YouTube can no longer do so anonymously. The dangers include possible hate crimes, retaliation against whistle-blowers, executions of rebels, religious persecution, and revenge against victims or witnesses of crimes. For society, Google's real name policy and data retention practices have been criticized by various organizations and commentators, and have led to legal challenges in several countries (III.II).</mark>
+
+<mark style="color:blue;">IV.I - The text discusses several user benefits and disadvantages of using Google's services. On the positive side, Google's real name policy makes it easier for people to find each other, like a phone book, and can help protect children and young adults from cyber-bullying. On the negative side, the policy is criticized for not acknowledging long-standing Internet culture and conventions, and for potentially endangering individuals by forcing them to use their real names online. Google's data retention practices have also been criticized, and the company has faced legal challenges in several countries over these issues (IV.I).</mark>
+
+
+
+_Source: s. \[Google.VI]_ [_,_](https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/)[_https://firewalltimes.com/google-data-breach-timeline/_](https://firewalltimes.com/google-data-breach-timeline/)_, retrieved on 15.01.2023_
+
+_\[GPT.Google.VI], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source, Service: Google ]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;">The text does not provide answers to the questions listed.</mark>
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;">It partly answer III.II, please provide more info</mark>
+
+<mark style="color:blue;">**A:**</mark>
+
+<mark style="color:blue;">III.II Which negative consequences occur for a individual, a group, a society by using this service?</mark>
+
+<mark style="color:blue;">The text provides several examples of negative consequences that have occurred for individuals, groups, and society as a result of using Google's services. These include:</mark>
+
+1. <mark style="color:blue;">Data breaches: The text mentions several instances where Google's services were compromised, leading to the exposure of user data. For example, in January 2023, data pertaining to Google Fi customers was compromised in a T-Mobile breach. In December 2018, a bug exposed the data of 52.5 million Google+ users. In March 2018, a bug in Google+ allowed third-party developers to access users' private data from 2015 until March 2018. In November 2016 and September 2015, malware compromised Android devices. In September 2014, nearly 5 million Gmail passwords were leaked online. In 2009, Chinese hackers breached Google servers (III.II).</mark>
+2. <mark style="color:blue;">Privacy violations: The text also mentions several instances where Google was accused of violating users' privacy. For example, in July 2020, Google was accused of misleading millions of users about the use and collection of their private data. In April 2020, Google faced a $5 billion lawsuit for tracking "private" browsing. In September 2019, Google received a $170 million fine for child data privacy breaches. In August 2018, Google was accused of tracking location data on 2 billion users, sometimes without permission (III.II).</mark>
+
+<mark style="color:blue;">These instances highlight the potential risks and negative consequences associated with using Google's services, including the exposure of personal data and violation of privacy.</mark>
+
+
+
+_Source: s. \[Google.VII]_ [_,_](https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/)[_https://firewalltimes.com/google-data-breach-timeline/_](https://firewalltimes.com/google-data-breach-timeline/)_, retrieved on 09.07.2023_
+
+_\[GPT.Google.VII], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source, Service: Google ]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">III.II: The text highlights negative consequences for individuals and society by using Google. It mentions that Google is being sued by the District of Columbia and three states for allegedly deceiving consumers and invading their privacy by making it nearly impossible for them to stop their location from being tracked. The lawsuit alleges that Google has systematically deceived consumers about how their locations are tracked and used, and misled users into believing they can control the information the company collects about them (III.II).</mark>
+
+<mark style="color:blue;">IV.II: The overall perception of the service by users is not explicitly stated in the text. However, the lawsuits filed against Google suggest that there is a level of dissatisfaction and concern among users about Google's data collection practices (IV.II).</mark>
+
+<mark style="color:blue;">IV.III: The text suggests that people are acting on the dangers of data extraction and behavioral prediction by Google. This is evidenced by the lawsuits filed against the company, accusing it of deceiving consumers and invading their privacy. The text also mentions an investigation by the Associated Press that revealed Google records users’ movements even when they explicitly tell it not to, which led to further legal action (IV.III).</mark>
+
+
+
+_Source: s. \[Google.VIII]_ [_,_](https://www.bruceb.com/2018/11/google-knows-so-much-about-you-that-its-creepy-but-it-might-not-be-an-invasion-of-privacy/)[_https://testsigma.com/blog/cross-website-tracking/_](https://testsigma.com/blog/cross-website-tracking/)_, retrieved on 09.07.2023_
+
+_\[GPT.Google.VIII], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source, Service: Google ]</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">The text does not provide specific answers to the questions listed.</mark>&#x20;
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">It partly answer III.I, III.I IV.I.</mark>
+
+<mark style="color:blue;">**A:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">III.I: Positive consequences for an individual, a group, a society by using this service</mark>
+
+<mark style="color:blue;">The text mentions that cross-website tracking can enhance user experience by remembering basic information like language preferences, making browsing easier and publisher service better. It also allows for targeted advertising based on the browsing behavior of any user, which can be seen as a positive consequence for both individuals and businesses. For instance, if a user is interested in books and movies, they would prefer advertisements from streaming services and publishing houses over irrelevant ones. This personalized user experience is a direct result of cross-website tracking (III.I).</mark>
+
+<mark style="color:blue;">III.II: Negative consequences for an individual, a group, a society by using this service</mark>
+
+<mark style="color:blue;">The article highlights that cross-website tracking poses serious privacy threats. It is a breach of privacy when websites engage in cross-site tracking without seeking consent from the users. Additionally, very few websites offer information in layman’s terms regarding how they will use the collected user data. This lack of transparency can lead to misuse of data, which is a negative consequence for individuals and society as a whole (III.II).</mark>
+
+<mark style="color:blue;">IV.I: User benefits and disadvantages by using this service</mark>
+
+<mark style="color:blue;">The benefits of cross-website tracking for users, as mentioned in the text, include an enhanced browsing experience, personalized user experience, and targeted advertising. The disadvantages include privacy breaches and lack of transparency about how the collected data will be used (IV.I).</mark>
+
+
+
+_Source: s. \[Google.IX]_ [_,_ ](https://matomo.org/blog/2022/06/google-analytics-privacy-issues/)[_https://matomo.org/blog/2022/06/google-analytics-privacy-issues/_](https://matomo.org/blog/2022/06/google-analytics-privacy-issues/)_, retrieved on 09.07.2023_
+
+_\[GPT.Google.IX], gpt-4-0614(temp = 0,top\_p=1), valid till: 09.2021, 09.07.2023_
+
+<mark style="color:blue;">**Q:**</mark> <mark style="color:blue;">\[Research prompt V.1.2 ,documented in chapter 3. , Text: text of source, Service: Google ]</mark>
+
+<mark style="color:blue;">**A:**</mark>
+
+<mark style="color:blue;">The text discusses the privacy issues associated with Google Analytics, a service provided by Google. It highlights the negative consequences (III.II) of using this service, such as the collection of personally identifiable information (PII) through cookies, which can be shared with advertisers without the user's direct knowledge or consent. This can lead to breaches of privacy laws and regulations, such as the General Data Protection Regulation (GDPR) in Europe and the California Consumer Privacy Act (CCPA) in the US.</mark>
+
+<mark style="color:blue;">The user benefits (IV.I) of Google Analytics include the collection of valuable data such as session statistics, referring website details, approximate geolocation, and browser and device information. However, the disadvantages (IV.I) include the potential for this data to be used for advertising purposes, and the lack of transparency and control over how this data is used and shared.</mark>
+
+<mark style="color:blue;">The overall perception (IV.II) of the user towards Google Analytics is negative due to these privacy concerns. Despite this, people continue to use the service, possibly due to a lack of awareness or understanding of the privacy issues involved, or because they feel they have no other choice (IV.III). The text suggests that Google's business model, which relies heavily on data collection and advertising revenue, is a major factor in this.</mark>
+
+<mark style="color:blue;">The text also suggests that Google's dominance in the market and its extensive data collection practices may be contributing to a lack of competition and choice for consumers. This could be another reason why people continue to use Google Analytics despite the privacy concerns (IV.III).</mark>
+
+
 
 ## **I.V MSN Search (1998)**
 
